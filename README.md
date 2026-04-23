@@ -1,6 +1,6 @@
 ## 👋 Hi! I'm Nazarii Kolesnikov
 
-## 🚜🌾 I am a Juniour Backend Developer and co-founder of Grassy 
+## 🚜🌾 I am a Juniour Backend Developer and Co-founder of startup Grassy 
 
 My journey in technology began with a big dream: to make Ukraine’s agricultural sector transparent and accessible to every small farmer. As a developer, I focus on building reliable and secure architecture using Node.js/TypeScript, and as a co-founder, I ensure that every line of our code brings real value to people. I believe that by combining our efforts and innovations, we can build the digital infrastructure of the future.
 
