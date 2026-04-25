@@ -6,7 +6,11 @@ My journey in technology began with a big dream: to make Ukraine’s agricultura
 
 ## ⚙️🤖 Technologies I work with
 
-![Fastify Logo](https://github.com/nazariiykolesnikov/nazariiykolesnikov/blob/main/FastifyLogo.svg)![Fastify Logo](https://github.com/nazariiykolesnikov/nazariiykolesnikov/blob/main/ExpressJSLogo.svg)![Fastify Logo](https://github.com/nazariiykolesnikov/nazariiykolesnikov/blob/main/PrismaORMLogo.svg)![Fastify Logo](https://github.com/nazariiykolesnikov/nazariiykolesnikov/blob/main/0dd9739d678fd6cc47fa848e2d6ca86122.svg)![Fastify Logo](https://github.com/nazariiykolesnikov/nazariiykolesnikov/blob/main/SwaggerUILogo.svg)
+![Fastify Logo](https://github.com/nazariiykolesnikov/nazariiykolesnikov/blob/main/FastifyLogo.svg)
+![ExpressJS Logo](https://github.com/nazariiykolesnikov/nazariiykolesnikov/blob/main/ExpressJSLogo.svg)
+![PrismaORMLogo Logo](https://github.com/nazariiykolesnikov/nazariiykolesnikov/blob/main/PrismaORMLogo.svg)
+![Fastify Logo](https://github.com/nazariiykolesnikov/nazariiykolesnikov/blob/main/0dd9739d678fd6cc47fa848e2d6ca86122.svg)
+![SwaggerUI Logo](https://github.com/nazariiykolesnikov/nazariiykolesnikov/blob/main/SwaggerUILogo.svg)
 
 ## 💻 Projects I'm currently working on
 
