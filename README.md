@@ -36,4 +36,4 @@ Our support and input:
 
 -  Directly participated in the creation of key platform modules (registration, authorization, password recovery) and prepared the backend infrastructure for digital cooperative logic.
 
-Frontend (Will avaluiable soon); Backend (Will avaluiable soon); Live Demo (Will avaluiable soon) 
+Frontend (Will avaluiable soon) / Backend (Will avaluiable soon) / Project (Will avaluiable soon) 
