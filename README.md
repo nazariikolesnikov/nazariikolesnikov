@@ -22,7 +22,7 @@ Technologies: Next.js, Fastify, TypeScript, React.js, Node.js, Jest, PostgresSQL
 
 Description: А digital ecosystem that builds a transparent bridge between farmers and consumers. We are creating an innovative infrastructure where small agribusinesses gain access to large markets through “digital cooperatives,” and transactions become secure, automated, and transparent for all participants in the supply chain—from farm to table.
 
-Role: Junior Backend Developer, Co-founder
+Role: Junior Backend Developer
 
 Our support and input:
 
