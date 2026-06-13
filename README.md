@@ -22,8 +22,10 @@ Startup Project: Mugunghwa Blooms & Roots is your trusted guide to the world of 
 
 Technologies: Next.js, Express.js, TypeScript, React.js, Node.js, Jest, PostgresSQL, PrismaORM, Docker, Postman API, Swagger, Vercel.
 
-Frontend (Will avaluiable soon) / Backend (Will avaluiable soon) / Project (Will avaluiable soon) 
-<br /><br /><br />
+Frontend (Will avaluiable soon) / Backend (Will avaluiable soon) / Project (Will avaluiable soon)
+
+<br /><br /><br /><br /><br /><br />
+
 Digital collaboration for agribusiness "Grassy"
 
 Technologies: Next.js, Fastify, TypeScript, React.js, Node.js, Jest, PostgresSQL, PrismaORM, Docker, Postman API, Swagger OpenAPI, AWS, Mantine, Cloudinary.
