@@ -22,6 +22,8 @@ Startup Project: Mugunghwa Blooms & Roots is your trusted guide to the world of 
 
 Technologies: Next.js, Express.js, TypeScript, React.js, Node.js, Jest, PostgresSQL, PrismaORM, Docker, Postman API, Swagger, Vercel.
 
+Role: Founder, Junior Fullstack Developer
+
 Project: (Will avaluiable soon) / Frontend: (Will avaluiable soon) / Backend: (Will avaluiable soon)<br /><br />
 
 ### Online store for women's and men's wallets "Leathercraft Makarets"
@@ -35,8 +37,6 @@ Technologies: Next.js, Express.js, TypeScript, React.js, Node.js, Jest, Postgres
 Project: (Will avaluiable soon) / Frontend: (Will avaluiable soon) / Backend (Will avaluiable soon)<br /><br />
 
 ### Digital collaboration for agribusiness "Grassy"
-
-Technologies: Next.js, Fastify, TypeScript, React.js, Node.js, Jest, PostgresSQL, PrismaORM, Docker, Postman API, Swagger OpenAPI, AWS, Mantine, Cloudinary.
 
 Description: 
 
@@ -56,6 +56,8 @@ We are transforming the illusion of a free market into a real, transparent, and 
 
 Role: Junior Fullstack Developer
 
+Technologies: Next.js, Fastify, TypeScript, React.js, Node.js, Jest, PostgresSQL, PrismaORM, Docker, Postman API, Swagger OpenAPI, AWS, Mantine, Cloudinary.
+
 Our support and input:
 
 - Development of a fast and scalable backend using a modern tech stack (Node.js, Fastify, TypeScript). Configuration of backend-frontend interaction, where Next.js acts as a proxy layer for secure and optimized request routing.
@@ -68,4 +70,4 @@ Our support and input:
 
 -  Directly participated in the creation of key platform modules (registration, authorization, password recovery) and prepared the backend infrastructure for digital cooperative logic.
 
-Frontend (Will avaluiable soon) / Backend (Will avaluiable soon) / Project (Will avaluiable soon) 
+Project: (Will avaluiable soon) / Frontend: (Will avaluiable soon) / Backend: (Will avaluiable soon)
