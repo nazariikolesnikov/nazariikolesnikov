@@ -20,9 +20,9 @@ Description:
 
 Startup Project: Mugunghwa Blooms & Roots is your trusted guide to the world of beauty and wellness from South Korea. Our online store offers a carefully curated selection of authentic Korean cosmetics, high-quality medical products, and unique items for daily care. Discover the secrets of Eastern harmony, combining centuries-old traditions with modern innovations for your perfect well-being.
 
-Technologies: Next.js, Express.js, TypeScript, React.js, Node.js, Jest, PostgresSQL, PrismaORM, Docker, Postman API, Swagger, Vercel.
-
 Role: Founder, Junior Fullstack Developer
+
+Technologies: Next.js, Express.js, TypeScript, React.js, Node.js, Jest, PostgresSQL, PrismaORM, Docker, Postman API, Swagger, Vercel.
 
 Project: (Will avaluiable soon) / Frontend: (Will avaluiable soon) / Backend: (Will avaluiable soon)<br /><br />
 
@@ -31,6 +31,8 @@ Project: (Will avaluiable soon) / Frontend: (Will avaluiable soon) / Backend: (W
 Description: 
 
 Since 2024, we have been creating not just accessories, but items with soul. Leathercraft Makarets is a workshop where exclusive women’s and men’s wallets made from the highest-quality genuine leather are crafted. Every stitch, every hardware detail, and the texture of the leather are selected with impeccable attention to detail. Our wallets are designed for those who appreciate true craftsmanship, durability, and timeless elegance. Experience the luxury of natural materials every day. 
+
+Role: Junior Fullstack Developer
 
 Technologies: Next.js, Express.js, TypeScript, React.js, Node.js, Jest, PostgresSQL, PrismaORM, Docker, Postman API, Swagger, Vercel.
 
@@ -58,7 +60,7 @@ Role: Junior Fullstack Developer
 
 Technologies: Next.js, Fastify, TypeScript, React.js, Node.js, Jest, PostgresSQL, PrismaORM, Docker, Postman API, Swagger OpenAPI, AWS, Mantine, Cloudinary.
 
-Our support and input:
+Our Support and Input:
 
 - Development of a fast and scalable backend using a modern tech stack (Node.js, Fastify, TypeScript). Configuration of backend-frontend interaction, where Next.js acts as a proxy layer for secure and optimized request routing.
 
