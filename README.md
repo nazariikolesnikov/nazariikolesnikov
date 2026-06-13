@@ -14,7 +14,7 @@ My journey in technology began with a big dream: to make Ukraine’s agricultura
 
 ## 💻 Projects I'm currently working on
 
-Digital Ecosystem "Grassy"
+Digital collaboration for agribusiness "Grassy"
 
 Technologies: Next.js, Fastify, TypeScript, React.js, Node.js, Jest, PostgresSQL, PrismaORM, Docker, Postman API, Swagger OpenAPI, AWS, Mantine, Cloudinary.
 
