@@ -34,7 +34,7 @@ Role: Junior Fullstack Developer
 
 Technologies: Next.js, Express.js, TypeScript, React.js, Node.js, Jest, PostgresSQL, PrismaORM, Docker, Postman API, Swagger, Vercel.
 
-Project: [https://leathercraft-makarets-frontend.vercel.app](https://leathercraft-makarets-frontend.vercel.app) / Frontend: [https://github.com/Leathercraft-Makarets/leathercraft-makarets-frontend](https://github.com/Leathercraft-Makarets/leathercraft-makarets-frontend) / Backend (Will avaluiable soon)<br /><br />
+Project: [https://leathercraft-makarets-frontend.vercel.app](https://leathercraft-makarets-frontend.vercel.app) / Frontend: [https://github.com/Leathercraft-Makarets/leathercraft-makarets-frontend](https://github.com/Leathercraft-Makarets/leathercraft-makarets-frontend) / Backend: (Will avaluiable soon)<br /><br />
 
 ### Digital collaboration for agribusiness "Grassy"
 
