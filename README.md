@@ -51,7 +51,9 @@ Today, over 45,000 small and medium-sized farmers in Ukraine grow high-quality p
 Grassy solves this problem by creating specialized B2C and B2B marketplaces. Our platform serves as a single hub connecting three key parties:
 
 - Farmers, who gain direct access to the market without intermediaries;
+- 
 - Buyers (restaurants, chains, traders), who receive consolidated volumes of goods with a quality guarantee;
+- 
 - Carriers, who receive pre-planned routes and orders;
 
 We are transforming the illusion of a free market into a real, transparent, and secure digital space where small businesses finally find great opportunities.
