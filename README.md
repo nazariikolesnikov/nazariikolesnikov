@@ -22,7 +22,7 @@ Startup Project: Mugunghwa Blooms & Roots is your trusted guide to the world of 
 
 Technologies: Next.js, Express.js, TypeScript, React.js, Node.js, Jest, PostgresSQL, PrismaORM, Docker, Postman API, Swagger, Vercel.
 
-Frontend (Will avaluiable soon) / Backend (Will avaluiable soon) / Project (Will avaluiable soon)<br /><br />
+Project: (Will avaluiable soon) / Frontend: (Will avaluiable soon) / Backend: (Will avaluiable soon)<br /><br />
 
 ### Online store for women's and men's wallets "Leathercraft Makarets"
 
