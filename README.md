@@ -14,7 +14,7 @@ My journey in technology began with a big dream: to make Ukraine’s agricultura
 
 ## 💻 Projects I'm currently working on
 
-Online Store "Mugunghwa Blooms & Roots"
+### Online Store "Mugunghwa Blooms & Roots"
 
 Description: 
 
@@ -25,7 +25,7 @@ Technologies: Next.js, Express.js, TypeScript, React.js, Node.js, Jest, Postgres
 Frontend (Will avaluiable soon) / Backend (Will avaluiable soon) / Project (Will avaluiable soon)<br /><br />
 
 
-Digital collaboration for agribusiness "Grassy"
+### Digital collaboration for agribusiness "Grassy"
 
 Technologies: Next.js, Fastify, TypeScript, React.js, Node.js, Jest, PostgresSQL, PrismaORM, Docker, Postman API, Swagger OpenAPI, AWS, Mantine, Cloudinary.
 
