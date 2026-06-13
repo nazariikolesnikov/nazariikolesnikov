@@ -24,7 +24,7 @@ Technologies: Next.js, Express.js, TypeScript, React.js, Node.js, Jest, Postgres
 
 Frontend (Will avaluiable soon) / Backend (Will avaluiable soon) / Project (Will avaluiable soon)
 
-<br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br />
 
 Digital collaboration for agribusiness "Grassy"
 
