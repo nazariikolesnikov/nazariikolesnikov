@@ -24,6 +24,13 @@ Technologies: Next.js, Express.js, TypeScript, React.js, Node.js, Jest, Postgres
 
 Frontend (Will avaluiable soon) / Backend (Will avaluiable soon) / Project (Will avaluiable soon)<br /><br />
 
+### Online store for women's and men's wallets "Leathercraft Makarets"
+
+Since 2024, we have been creating not just accessories, but items with soul. Leathercraft Makarets is a workshop where exclusive women’s and men’s wallets made from the highest-quality genuine leather are crafted. Every stitch, every hardware detail, and the texture of the leather are selected with impeccable attention to detail. Our wallets are designed for those who appreciate true craftsmanship, durability, and timeless elegance. Experience the luxury of natural materials every day. 
+
+Technologies: Next.js, Express.js, TypeScript, React.js, Node.js, Jest, PostgresSQL, PrismaORM, Docker, Postman API, Swagger, Vercel.
+
+Project: (Will avaluiable soon) / Frontend: (Will avaluiable soon) / Backend (Will avaluiable soon)
 
 ### Digital collaboration for agribusiness "Grassy"
 
