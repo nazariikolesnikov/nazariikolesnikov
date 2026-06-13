@@ -14,6 +14,16 @@ My journey in technology began with a big dream: to make Ukraine’s agricultura
 
 ## 💻 Projects I'm currently working on
 
+Online Store "Mugunghwa Blooms & Roots"
+
+Description: 
+
+Startup Project: Mugunghwa Blooms & Roots is your trusted guide to the world of beauty and wellness from South Korea. Our online store offers a carefully curated selection of authentic Korean cosmetics, high-quality medical products, and unique items for daily care. Discover the secrets of Eastern harmony, combining centuries-old traditions with modern innovations for your perfect well-being.
+
+Technologies: Next.js, Express.js, TypeScript, React.js, Node.js, Jest, PostgresSQL, PrismaORM, Docker, Postman API, Swagger, Vercel.
+
+Frontend (Will avaluiable soon) / Backend (Will avaluiable soon) / Project (Will avaluiable soon) 
+
 Digital collaboration for agribusiness "Grassy"
 
 Technologies: Next.js, Fastify, TypeScript, React.js, Node.js, Jest, PostgresSQL, PrismaORM, Docker, Postman API, Swagger OpenAPI, AWS, Mantine, Cloudinary.
