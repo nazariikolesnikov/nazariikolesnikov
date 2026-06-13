@@ -1,6 +1,4 @@
-## 👋 Hi! I'm Nazarii Kolesnikov
-
-## 🚜🌾 I am a Junior Fullstack Developer 
+## 👋 Hi! I'm Nazarii Kolesnikov. I am a Junior Fullstack Developer 
 
 ## ⚙️🤖 Technologies I work with
 
