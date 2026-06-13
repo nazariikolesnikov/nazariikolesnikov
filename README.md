@@ -1,6 +1,6 @@
 ## 👋 Hi! I'm Nazarii Kolesnikov
 
-## 🚜🌾 I am a Junior Backend Developer 
+## 🚜🌾 I am a Junior Fullstack Developer 
 
 My journey in technology began with a big dream: to make Ukraine’s agricultural sector transparent and accessible to every small farmer. As a developer, I focus on building reliable and secure architecture using Node.js/TypeScript, and as a co-founder, I ensure that every line of our code brings real value to people. I believe that by combining our efforts and innovations, we can build the digital infrastructure of the future.
 
@@ -16,13 +16,25 @@ My journey in technology began with a big dream: to make Ukraine’s agricultura
 
 Digital Ecosystem "Grassy"
 
-Startup project
-
 Technologies: Next.js, Fastify, TypeScript, React.js, Node.js, Jest, PostgresSQL, PrismaORM, Docker, Postman API, Swagger OpenAPI, AWS, Mantine, Cloudinary.
 
-Description: А digital ecosystem that builds a transparent bridge between farmers and consumers. We are creating an innovative infrastructure where small agribusinesses gain access to large markets through “digital cooperatives,” and transactions become secure, automated, and transparent for all participants in the supply chain—from farm to table.
+Description: 
 
-Role: Junior Backend Developer
+Startup Project: Grassy is a Ukrainian digital collaboration for agribusiness "Grassy" that connects small farmers and buyers (B2C) with large enterprises and companies (B2B). We are creating a “digital cooperative” where small farms can virtually pool their harvests into large batches. 
+
+Thanks to Grassy, purchasing products from dozens of local farmers becomes just as simple, secure, and automated as working with a single large agricultural holding. We cover the entire cycle: from transparent transactions to logistics and payment, “from field to buyer.”
+
+Today, over 45,000 small and medium-sized farmers in Ukraine grow high-quality produce but remain cut off from major markets due to small volumes and complex logistics.
+
+Grassy solves this problem by creating specialized B2C and B2B marketplaces. Our platform serves as a single hub connecting three key parties:
+
+- Farmers, who gain direct access to the market without intermediaries;
+- Buyers (restaurants, chains, traders), who receive consolidated volumes of goods with a quality guarantee;
+- Carriers, who receive pre-planned routes and orders;
+
+We are transforming the illusion of a free market into a real, transparent, and secure digital space where small businesses finally find great opportunities.
+
+Role: Junior Fullstack Developer
 
 Our support and input:
 
