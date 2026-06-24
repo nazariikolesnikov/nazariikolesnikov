@@ -18,7 +18,7 @@ Technologies: Next.js, Express.js, TypeScript, React.js, Node.js, Jest, Postgres
 
 Description: 
 
-Startup Project: Mugunghwa Blooms & Roots is your trusted guide to the world of beauty and wellness from South Korea. Our online store offers a carefully curated selection of authentic Korean cosmetics, high-quality medical products, and unique items for daily care. Discover the secrets of Eastern harmony, combining centuries-old traditions with modern innovations for your perfect well-being.
+Mugunghwa Blooms & Roots is your trusted guide to the world of beauty and wellness from South Korea. Our online store offers a carefully curated selection of authentic Korean cosmetics, high-quality medical products, and unique items for daily care. Discover the secrets of Eastern harmony, combining centuries-old traditions with modern innovations for your perfect well-being.
 
 Role: Founder, Junior Fullstack Developer
 
@@ -42,7 +42,7 @@ Project: [link](https://leathercraft-makarets-frontend.vercel.app) / Frontend: [
 
 Description: 
 
-Startup Project: Grassy is a Ukrainian digital collaboration for agribusiness "Grassy" that connects small farmers and buyers (B2C) with large enterprises and companies (B2B). We are creating a “digital cooperative” where small farms can virtually pool their harvests into large batches. 
+Grassy is a Ukrainian digital collaboration for agribusiness "Grassy" that connects small farmers and buyers (B2C) with large enterprises and companies (B2B). We are creating a “digital cooperative” where small farms can virtually pool their harvests into large batches. 
 
 Thanks to Grassy, purchasing products from dozens of local farmers becomes just as simple, secure, and automated as working with a single large agricultural holding. We cover the entire cycle: from transparent transactions to logistics and payment, “from field to buyer.”
 
