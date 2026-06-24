@@ -12,6 +12,10 @@
 
 ### Online-store of goods from South Koren "Mugunghwa Blooms & Roots"
 
+Role: Founder, Junior Fullstack Developer
+
+Technologies: Next.js, Express.js, TypeScript, React.js, Node.js, Jest, PostgresSQL, PrismaORM, Docker, Postman API, Swagger, Vercel.
+
 Description: 
 
 Startup Project: Mugunghwa Blooms & Roots is your trusted guide to the world of beauty and wellness from South Korea. Our online store offers a carefully curated selection of authentic Korean cosmetics, high-quality medical products, and unique items for daily care. Discover the secrets of Eastern harmony, combining centuries-old traditions with modern innovations for your perfect well-being.
