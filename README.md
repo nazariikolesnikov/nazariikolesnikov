@@ -10,7 +10,7 @@
 
 ## 💻 Projects I'm currently working on
 
-### Online Store "Mugunghwa Blooms & Roots"
+### Online-store of goods from South Koren "Mugunghwa Blooms & Roots"
 
 Description: 
 
@@ -22,7 +22,7 @@ Technologies: Next.js, Express.js, TypeScript, React.js, Node.js, Jest, Postgres
 
 Project: [link](https://mugunghwa-blooms-and-roots-frontend.vercel.app) / Frontend: [link](https://github.com/Mugunghwa-Blooms-Roots/mugunghwa-blooms-and-roots-frontend) / Backend: (Will avaluiable soon)<br /><br />
 
-### Online store for women's and men's wallets "Leathercraft Makarets"
+### Online store of women's and men's wallets "Leathercraft Makarets"
 
 Description: 
 
