@@ -20,7 +20,7 @@ Role: Founder, Junior Fullstack Developer
 
 Technologies: Next.js, Express.js, TypeScript, React.js, Node.js, Jest, PostgresSQL, PrismaORM, Docker, Postman API, Swagger, Vercel.
 
-Project: (Will avaluiable soon) / Frontend: (Will avaluiable soon) / Backend: (Will avaluiable soon)<br /><br />
+Project:  / Frontend: [link](https://github.com/Mugunghwa-Blooms-Roots/mugunghwa-blooms-and-roots-frontend) / Backend: (Will avaluiable soon)<br /><br />
 
 ### Online store for women's and men's wallets "Leathercraft Makarets"
 
