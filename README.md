@@ -10,7 +10,7 @@
 
 ## 💻 Projects I'm currently working on
 
-### Online-store of goods from South Koren "Mugunghwa Blooms & Roots"
+### Online-store of goods from South Korea "Mugunghwa Blooms & Roots"
 
 Role: Founder, Junior Fullstack Developer
 
