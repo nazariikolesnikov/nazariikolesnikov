@@ -12,7 +12,7 @@
 
 ### Online-store of goods from South Korea "Mugunghwa Blooms & Roots"
 
-Role: Founder, Junior Fullstack Developer
+Role: Founder
 
 Technologies: Next.js, Express.js, TypeScript, React.js, Node.js, Jest, PostgresSQL, PrismaORM, Docker, Postman API, Swagger, Vercel.
 
