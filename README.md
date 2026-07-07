@@ -1,5 +1,9 @@
 ## 👋 Hi! I'm Nazarii Kolesnikov. I am a Junior Fullstack Developer 
 
+As a Junior Fullstack Developer, I combine technical precision with a deep understanding of user needs.
+Today, I’m fully dedicated to two large-scale projects: Grassy, a digital ecosystem for agribusiness, and "Mugunghwa Blooms & Roots", an aesthetically pleasing online store featuring products from South Korea. My approach is based on responsibility, continuous self-improvement, and the ability to work as part of a team.
+I am open to new opportunities and growth, where my experience and vision will help create exceptional digital products.
+
 ## ⚙️🤖 Technologies I work with
 
 ![Docker Logo](https://github.com/nazariiykolesnikov/nazariiykolesnikov/blob/main/DockerLogo.svg)
@@ -22,7 +26,7 @@ Role: Founder, Junior Fullstack Developer
 
 Technologies: Next.js, Express.js, TypeScript, React.js, Node.js, Jest, PostgresSQL, PrismaORM, Docker, Postman API, Swagger, Vercel.
 
-Project: [link](https://mugunghwa-blooms-and-roots-frontend.vercel.app) / Frontend: [link](https://github.com/Mugunghwa-Blooms-Roots/mugunghwa-blooms-and-roots-frontend) / Backend: [link](https://github.com/Mugunghwa-Blooms-Roots/mugunghwa-blooms-and-roots-backend)<br /><br />
+Project: [link](https://mugunghwa-blooms-and-roots-frontend-xi.vercel.app) / Frontend: [link](https://github.com/Mugunghwa-Blooms-Roots/mugunghwa-blooms-and-roots-frontend) / Backend: [link](https://github.com/Mugunghwa-Blooms-Roots/mugunghwa-blooms-and-roots-backend)<br /><br />
 
 ### Online store of women's and men's wallets "Leathercraft Makarets"
 
