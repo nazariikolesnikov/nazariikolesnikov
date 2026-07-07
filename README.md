@@ -10,7 +10,7 @@
 
 ### Online-store of goods from South Korea "Mugunghwa Blooms & Roots"
 
-Role: Founder
+Role: Founder, Junior Fullstack Developer
 
 Technologies: Next.js, Express.js, TypeScript, React.js, Node.js, Jest, PostgresSQL, PrismaORM, Docker, Postman API, Swagger, Vercel.
 
@@ -22,7 +22,7 @@ Role: Founder, Junior Fullstack Developer
 
 Technologies: Next.js, Express.js, TypeScript, React.js, Node.js, Jest, PostgresSQL, PrismaORM, Docker, Postman API, Swagger, Vercel.
 
-Project: [link](https://mugunghwa-blooms-and-roots-frontend.vercel.app) / Frontend: [link](https://github.com/Mugunghwa-Blooms-Roots/mugunghwa-blooms-and-roots-frontend) / Backend: (Will avaluiable soon)<br /><br />
+Project: [link](https://mugunghwa-blooms-and-roots-frontend.vercel.app) / Frontend: [link](https://github.com/Mugunghwa-Blooms-Roots/mugunghwa-blooms-and-roots-frontend) / Backend: [link](https://github.com/Mugunghwa-Blooms-Roots/mugunghwa-blooms-and-roots-backend)<br /><br />
 
 ### Online store of women's and men's wallets "Leathercraft Makarets"
 
