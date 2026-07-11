@@ -7,7 +7,6 @@ I am open to new opportunities and growth, where my experience and vision will h
 ## ⚙️🤖 Technologies I work with
 
 ![Apache Airflow Logo](https://github.com/nazariiykolesnikov/nazariiykolesnikov/blob/main/ApacheAirflowLogo.svg)
-![Docker Logo](https://github.com/nazariiykolesnikov/nazariiykolesnikov/blob/main/DockerLogo.svg)
 
 ## 💻 Projects I'm currently working on
 
