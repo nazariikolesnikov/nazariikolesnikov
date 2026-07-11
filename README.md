@@ -16,9 +16,7 @@ Role: Junior Data Engineer
 
 Technologies: Apache Airflow, Dbt, Kafka, Debezium, Snoflakes, Apache S3 Bucket, Docker, Power BI
 
-Project: [link](https://github.com/nazariikolesnikov/real-time-online-shop-data-pipeline)
-
-
+Project: [link](https://github.com/nazariikolesnikov/real-time-online-shop-data-pipeline)<br/><br/>
 
 ### Online-store of goods from South Korea "Mugunghwa Blooms & Roots"
 
