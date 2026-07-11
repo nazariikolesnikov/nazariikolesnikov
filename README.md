@@ -1,7 +1,7 @@
 ## 👋 Hi! I'm Nazarii Kolesnikov. I am a Junior Data Engineer
 
 As a Junior Data Engineer, I combine technical precision with a deep understanding of user needs.
-Today, I’m fully dedicated to two large-scale projects: Grassy, a digital ecosystem for agribusiness, and "Mugunghwa Blooms & Roots", an aesthetically pleasing online store featuring products from South Korea. My approach is based on responsibility, continuous self-improvement, and the ability to work as part of a team.
+Today, I’m fully dedicated to two large-scale projects: "Grassy", a digital cooperation for agribusiness, and "Mugunghwa Blooms & Roots", an aesthetically pleasing online store featuring products from South Korea. My approach is based on responsibility, continuous self-improvement, and the ability to work as part of a team.
 I am open to new opportunities and growth, where my experience and vision will help create exceptional digital products.
 
 ## ⚙️🤖 Technologies I work with
@@ -16,7 +16,7 @@ Role: Junior Data Engineer
 
 Technologies: Apache Airflow, Dbt, Kafka, Debezium, Snoflakes, Apache S3 Bucket, Docker, Power BI
 
-Project: [link]()
+Project: [link](https://github.com/nazariikolesnikov/real-time-online-shop-data-pipeline)
 
 
 ### Online-store of goods from South Korea "Mugunghwa Blooms & Roots"
