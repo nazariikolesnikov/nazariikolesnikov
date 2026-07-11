@@ -19,6 +19,7 @@ Technologies: Apache Airflow, Dbt, Kafka, Debezium, Snoflakes, Apache S3 Bucket,
 Project: [link](https://github.com/nazariikolesnikov/real-time-online-shop-data-pipeline)
 
 
+
 ### Online-store of goods from South Korea "Mugunghwa Blooms & Roots"
 
 Role: Founder, Junior Fullstack Developer
