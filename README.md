@@ -14,7 +14,7 @@ I am open to new opportunities and growth, where my experience and vision will h
 
 Role: Junior Data Engineer
 
-Technologies: Apache Airflow, Dbt, Kafka, Debezium, Snoflakes, Apache S3 Bucket, Docker, Power BI
+Technologies: Apache Airflow, Dbt, Kafka, Debezium, Snoflakes, Apache S3 Bucket, Docker, Power BI, GitHub Actions (CI/CD)
 
 Project: [link](https://github.com/nazariikolesnikov/real-time-online-shop-data-pipeline)<br/><br/>
 
