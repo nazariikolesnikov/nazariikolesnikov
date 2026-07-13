@@ -10,14 +10,6 @@ I am open to new opportunities and growth, where my experience and vision will h
 
 ## 💻 Projects I'm currently working on
 
-### Real-time Online-Shop Data Pipeline (for "Mugunghwa Blooms & Roots")
-
-Role: Junior Data Engineer
-
-Technologies: Apache Airflow, Dbt, Kafka, Debezium, Snoflakes, Apache S3 Bucket, Docker, Power BI, GitHub Actions (CI/CD)
-
-Project: [link](https://github.com/nazariikolesnikov/real-time-online-shop-data-pipeline)<br/><br/>
-
 ### Online-store of goods from South Korea "Mugunghwa Blooms & Roots"
 
 Role: Founder, Junior Fullstack Developer
