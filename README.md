@@ -48,9 +48,9 @@ Mugunghwa Blooms & Roots is your trusted guide to the world of beauty and wellne
 
 Role: Founder, Junior Fullstack Developer
 
-Technologies: [unknown]
+Technologies: [will availuable soon]
 
-Project: [link](https://mugunghwa-blooms-and-roots-frontend-xi.vercel.app) / Frontend: [link](https://github.com/Mugunghwa-Blooms-Roots/mugunghwa-blooms-and-roots-frontend) / Backend: [link](https://github.com/Mugunghwa-Blooms-Roots/mugunghwa-blooms-and-roots-backend)<br /><br />
+Project Link: [will availuable soon] / Frontend: [will availuable soon] / Backend: [will availuable soon]<br /><br />
 
 ### Online store of women's and men's wallets "Leathercraft Makarets"
 
