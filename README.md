@@ -40,11 +40,11 @@ I am open to new opportunities and growth, where my experience and vision will h
 
 Role: Product Owner, Junior Data Engineer
 
-Technologies: Next.js, Express.js, TypeScript, React.js, Node.js, Jest, PostgresSQL, PrismaORM, Docker, Postman API, Swagger, Vercel.
+Technologies: [will availuable soon]
 
 Description: 
 
-Mugunghwa Blooms & Roots is your trusted guide to the world of beauty and wellness from South Korea. Our online store offers a carefully curated selection of authentic Korean cosmetics, high-quality medical products, and unique items for daily care. Discover the secrets of Eastern harmony, combining centuries-old traditions with modern innovations for your perfect well-being.
+"Mugunghwa Blooms & Roots" is your trusted guide to the world of beauty and wellness from South Korea, Ukraine and another countries. Our online store offers a carefully curated selection of authentic Korean cosmetics, high-quality medical products, and unique items for daily care. Discover the secrets of Eastern harmony, combining centuries-old traditions with modern innovations for your perfect well-being.
 
 Role: Product Owner, Junior Data Engineer
 
