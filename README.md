@@ -51,7 +51,7 @@ Description:
 
 Since 2024, we have been creating not just accessories, but items with soul. Leathercraft Makarets is a workshop where exclusive women’s and men’s wallets made from the highest-quality genuine leather are crafted. Every stitch, every hardware detail, and the texture of the leather are selected with impeccable attention to detail. Our wallets are designed for those who appreciate true craftsmanship, durability, and timeless elegance. Experience the luxury of natural materials every day. 
 
-Role: Junior Backend Developer
+Role: Junior Frontend Developer
 
 Technologies: 
 
