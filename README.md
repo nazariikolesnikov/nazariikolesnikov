@@ -27,6 +27,7 @@ I am open to new opportunities and growth, where my experience and vision will h
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -47,7 +48,7 @@ Mugunghwa Blooms & Roots is your trusted guide to the world of beauty and wellne
 
 Role: Founder, Junior Fullstack Developer
 
-Technologies: Next.js, Express.js, TypeScript, React.js, Node.js, Jest, PostgresSQL, PrismaORM, Docker, Postman API, Swagger, Vercel.
+Technologies: [unknown]
 
 Project: [link](https://mugunghwa-blooms-and-roots-frontend-xi.vercel.app) / Frontend: [link](https://github.com/Mugunghwa-Blooms-Roots/mugunghwa-blooms-and-roots-frontend) / Backend: [link](https://github.com/Mugunghwa-Blooms-Roots/mugunghwa-blooms-and-roots-backend)<br /><br />
 
