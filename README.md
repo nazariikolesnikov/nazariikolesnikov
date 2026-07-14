@@ -73,12 +73,6 @@ Project: [link](https://leathercraft-makarets-frontend.vercel.app) / Frontend: [
 
 ### Online-store of goods from South Korea "Mugunghwa Blooms & Roots"
 
-Role: Product Owner, Junior Data Engineer
-
-Technologies: [will availuable soon]
-
-Description: 
-
 "Mugunghwa Blooms & Roots" is your trusted guide to the world of beauty and wellness from South Korea, Ukraine and another countries. Our online store offers a carefully curated selection of authentic Korean cosmetics, high-quality medical products, and unique items for daily care. Discover the secrets of Eastern harmony, combining centuries-old traditions with modern innovations for your perfect well-being.
 
 Role: Product Owner, Junior Data Engineer
