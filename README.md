@@ -36,6 +36,28 @@ I am open to new opportunities and growth, where my experience and vision will h
 
 ## 💻 Projects I'm currently working on
 
+### Online store of women's and men's wallets "Leathercraft Makarets"
+
+Description: 
+
+Since 2024, we have been creating not just accessories, but items with soul. Leathercraft Makarets is a workshop where exclusive women’s and men’s wallets made from the highest-quality genuine leather are crafted. Every stitch, every hardware detail, and the texture of the leather are selected with impeccable attention to detail. Our wallets are designed for those who appreciate true craftsmanship, durability, and timeless elegance. Experience the luxury of natural materials every day. 
+
+Role: Junior Backend Developer
+
+Technologies: 
+![Next JS](https://img.shields.io/badge/Next-black.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+Project: [link](https://leathercraft-makarets-frontend.vercel.app) / Frontend: [link](https://github.com/Leathercraft-Makarets/leathercraft-makarets-frontend) / Backend: [link](https://github.com/Leathercraft-Makarets/leathercraft-makarets-backend)<br /><br />
+
 ### Online-store of goods from South Korea "Mugunghwa Blooms & Roots"
 
 Role: Product Owner, Junior Data Engineer
@@ -51,15 +73,3 @@ Role: Product Owner, Junior Data Engineer
 Technologies: [will availuable soon]
 
 Project Link: [will availuable soon] / Frontend: [will availuable soon] / Backend: [will availuable soon]<br /><br />
-
-### Online store of women's and men's wallets "Leathercraft Makarets"
-
-Description: 
-
-Since 2024, we have been creating not just accessories, but items with soul. Leathercraft Makarets is a workshop where exclusive women’s and men’s wallets made from the highest-quality genuine leather are crafted. Every stitch, every hardware detail, and the texture of the leather are selected with impeccable attention to detail. Our wallets are designed for those who appreciate true craftsmanship, durability, and timeless elegance. Experience the luxury of natural materials every day. 
-
-Role: Junior Backend Developer
-
-Technologies: Next.js, Express.js, TypeScript, React.js, Node.js, Jest, PostgresSQL, PrismaORM, Docker, Postman API, Swagger, Vercel.
-
-Project: [link](https://leathercraft-makarets-frontend.vercel.app) / Frontend: [link](https://github.com/Leathercraft-Makarets/leathercraft-makarets-frontend) / Backend: [link](https://github.com/Leathercraft-Makarets/leathercraft-makarets-backend)<br /><br />
