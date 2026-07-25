@@ -1,6 +1,6 @@
 ## 👋 Hi! I'm Nazarii Kolesnikov. I am a Junior Data Engineer
 
-As a Junior Data Engineer, I combine technical precision with a deep understanding of user needs.
+As a Junior Data Scientist / Data Engineer, I combine technical precision with a deep understanding of user needs.
 Today, I’m fully dedicated to large-scale projects. My approach is based on responsibility, continuous self-improvement, and the ability to work as part of a team. I am open to new opportunities and growth, where my experience and vision will help create exceptional digital products.
 
 ## ⚙️🤖 Technologies I work with
