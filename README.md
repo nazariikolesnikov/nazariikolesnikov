@@ -61,28 +61,3 @@ Today, I’m fully dedicated to large-scale projects. My approach is based on re
 <img width="5647" height="3107" alt="Time Series Forcasting (ARIMA)" src="https://github.com/nazariikolesnikov/k-nearest-neighbors-algorithm-practical-training/blob/main/Error%20rate%20for%20different%20values%20of%20K.png" />
 
 Project: [k-nearest-neighbors-algorithm-practical-training]([https://leathercraft-makarets-frontend.vercel.app](https://github.com/nazariikolesnikov/k-nearest-neighbors-algorithm-practical-training)
-
-### Online store of women's and men's wallets "Leathercraft Makarets"
-
-Description: 
-
-Since 2024, we have been creating not just accessories, but items with soul. Leathercraft Makarets is a workshop where exclusive women’s and men’s wallets made from the highest-quality genuine leather are crafted. Every stitch, every hardware detail, and the texture of the leather are selected with impeccable attention to detail. Our wallets are designed for those who appreciate true craftsmanship, durability, and timeless elegance. Experience the luxury of natural materials every day. 
-
-Role: Junior Frontend Developer
-
-Technologies: 
-
-![Next JS](https://img.shields.io/badge/Next-black.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-Project: [link](https://leathercraft-makarets-frontend.vercel.app) / Frontend: [link](https://github.com/Leathercraft-Makarets/leathercraft-makarets-frontend) / Backend: [link](https://github.com/Leathercraft-Makarets/leathercraft-makarets-backend)<br /><br />
