@@ -49,6 +49,11 @@ Today, I’m fully dedicated to large-scale projects. My approach is based on re
 
 # K-Nearest Neighbors Algorithm (Practical Training)
 
+## 📝 Description
+
+Discussion of the wine classification problem. Training and test sets. Key parameters of the `train_test_split` procedure. Standardization. The `KNeighborsClassifier` procedure and its parameters. Confusion matrix and accuracy.
+Determining the optimal number of nearest neighbors.
+
 ## ⚙️🤖 Technologies 
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
