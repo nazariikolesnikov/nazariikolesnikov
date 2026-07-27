@@ -111,7 +111,7 @@ Let's examine the obvious fact that a house's square footage correlates with its
 
 ## 📝 Description
 
-Testing the Normality of the Distribution of the Population Among Cities of the Soviet Union as of 1959
+Testing the normality of the distribution of the population among cities of the Soviet Union as of 1959 year.
 
 #### 📈 p-value (by the Shapiro-Wilk test): ~ 3.15 * 10 ^ {-12} (3.1499992999375674e-12)
 
