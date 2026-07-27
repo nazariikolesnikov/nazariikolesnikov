@@ -61,9 +61,9 @@ Today, I’m fully dedicated to large-scale projects. My approach is based on re
 
 ### 🏘️ The Mann-Whitney-Wilcoxon Criterion (Albuquerque House Prices)
 
-### ⚙️ Project: [hypothesis-testing-practical-training](https://github.com/nazariikolesnikov/hypothesis-testing-practical-training)
+#### ⚙️ Project: [hypothesis-testing-practical-training](https://github.com/nazariikolesnikov/hypothesis-testing-practical-training)
 
-### 📈 p-value (by the Mann-Whitney-Wilcoxon criterion): 0.8044081572425339
+#### 📈 p-value (by the Mann-Whitney-Wilcoxon criterion): 0.8044081572425339
 <img width="5647" height="3107" alt="Mann-Whitney U-test" src="https://github.com/nazariikolesnikov/hypothesis-testing-practical-training/blob/main/Mann-Whitney-Wilcoxon%20U-test.png" />
 
 ## K-Nearest Neighbors Algorithm (Practical Training)
