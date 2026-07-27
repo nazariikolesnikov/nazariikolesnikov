@@ -100,6 +100,8 @@ Independent and paired samples. The chi-square test. Pearson's test.
 
 <img width="5647" height="3107" alt="Mann-Whitney U-test" src="https://github.com/nazariikolesnikov/hypothesis-testing-practical-training/blob/main/Mann-Whitney-Wilcoxon%20U-test.png" />
 
+### 👩‍👩‍👧‍👦 Population of Soviet cities (the Shapiro-Wilk test)
+
 #### 📈 p-value (by the Shapiro-Wilk test): ~ 3.15 * 10 ^ {-12} (3.1499992999375674e-12)
 
 <img width="5647" height="3107" alt="Mann-Whitney U-test" src="https://github.com/nazariikolesnikov/hypothesis-testing-practical-training/blob/main/Town%201959%20Shapiro-Wilk%20Test.png" />
