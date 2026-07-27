@@ -59,7 +59,7 @@ Today, I’m fully dedicated to large-scale projects. My approach is based on re
 
 ## 📊 Visualizations
 
-### 🏘️ The Mann-Whitney U-test (Albuquerque House Prices)
+### 🏘️ The The Mann-Whitney-Wilcoxon U-test (Albuquerque House Prices)
 
 ### ⚙️ Project: [hypothesis-testing-practical-training](https://github.com/nazariikolesnikov/hypothesis-testing-practical-training)
 
