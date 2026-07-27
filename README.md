@@ -98,6 +98,10 @@ We check whether the prices of corner houses in Albuquerque differ from those of
 
 ### 🏡🏘️ Correlation Between Price and Square Footage of Homes in Albuquerque (The Pearson's Test)
 
+## 📝 Description
+
+Let's examine the obvious fact that a house's square footage correlates with its price.
+
 #### 📊 Person`s ρ:  0.8447950985552122
 #### 📉 p-value:  5.146345707629406e-33
 
