@@ -71,12 +71,12 @@ Independent and paired samples. The chi-square test. Pearson's test.
 
 <img width="5647" height="3107" alt="Mann-Whitney U-test" src="https://github.com/nazariikolesnikov/hypothesis-testing-practical-training/blob/main/Age%20at%20that%20European%20aristocrats%20die%20Pearson%60s%20Test.png" />
 
-### Correlation Between Price and Square Footage of Homes in Albuquerque (The Pearson's Test)
+### 🏡🏘️ Correlation Between Price and Square Footage of Homes in Albuquerque (The Pearson's Test)
 
-#### Person`s ρ:  0.8447950985552122
-#### p-value:  5.146345707629406e-33
+#### 📊 Person`s ρ:  0.8447950985552122
+#### 📉 p-value:  5.146345707629406e-33
 
-<img width="5647" height="3107" alt="Mann-Whitney U-test" src="https://github.com/nazariikolesnikov/hypothesis-testing-practical-training/blob/main/Age%20at%20that%20European%20aristocrats%20die%20Pearson%60s%20Test.png" />
+<img width="5647" height="3107" alt="Mann-Whitney U-test" src="https://github.com/nazariikolesnikov/hypothesis-testing-practical-training/blob/main/Correlation%20Between%20Price%20and%20Square%20Footage%20of%20Homes%20in%20Albuquerque.png" />
 
 ### 🏘️ Albuquerque House Prices (The Mann-Whitney-Wilcoxon Test)
 
