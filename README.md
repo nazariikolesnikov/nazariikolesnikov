@@ -78,6 +78,10 @@ The Strup effect, published by American psychologist John Ridley Strup in 1935 i
 
 ### 🎩🤵🏻 Age at that European aristocrats die (The Pearson's Test)
 
+## 📝 Description
+
+Data on the age at which Europeans died in the mid-19th century, broken down by social class (sovereignty, aristocracy, and gentry).
+
 #### 📈 p-value (by the Pearson's  test): ~ 1.52 * 10 ^ {-26} (1.5181184197728794e-26)
 
 <img width="5647" height="3107" alt="Mann-Whitney U-test" src="https://github.com/nazariikolesnikov/hypothesis-testing-practical-training/blob/main/Age%20at%20that%20European%20aristocrats%20die%20Pearson%60s%20Test.png" />
