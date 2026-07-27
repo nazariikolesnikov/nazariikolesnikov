@@ -86,18 +86,22 @@ Data on the age at which Europeans died in the mid-19th century, broken down by 
 
 <img width="5647" height="3107" alt="Mann-Whitney U-test" src="https://github.com/nazariikolesnikov/hypothesis-testing-practical-training/blob/main/Age%20at%20that%20European%20aristocrats%20die%20Pearson%60s%20Test.png" />
 
+### 🏘️ Albuquerque House Prices (The Mann-Whitney-Wilcoxon Test)
+
+## 📝 Description
+
+We check whether the prices of corner houses in Albuquerque differ from those of non-corner houses, while also checking the normality of the data and the equality of variances, and we will try to apply the Student's t-test
+
+#### 📈 p-value (by the Mann-Whitney-Wilcoxon test): 0.402204078621
+
+<img width="5647" height="3107" alt="Mann-Whitney U-test" src="https://github.com/nazariikolesnikov/hypothesis-testing-practical-training/blob/main/Mann-Whitney-Wilcoxon%20U-test.png" />
+
 ### 🏡🏘️ Correlation Between Price and Square Footage of Homes in Albuquerque (The Pearson's Test)
 
 #### 📊 Person`s ρ:  0.8447950985552122
 #### 📉 p-value:  5.146345707629406e-33
 
 <img width="5647" height="3107" alt="Mann-Whitney U-test" src="https://github.com/nazariikolesnikov/hypothesis-testing-practical-training/blob/main/Correlation%20Between%20Price%20and%20Square%20Footage%20of%20Homes%20in%20Albuquerque.png" />
-
-### 🏘️ Albuquerque House Prices (The Mann-Whitney-Wilcoxon Test)
-
-#### 📈 p-value (by the Mann-Whitney-Wilcoxon test): 0.402204078621
-
-<img width="5647" height="3107" alt="Mann-Whitney U-test" src="https://github.com/nazariikolesnikov/hypothesis-testing-practical-training/blob/main/Mann-Whitney-Wilcoxon%20U-test.png" />
 
 ### 👩‍👩‍👧‍👦 Population of Soviet cities (the Shapiro-Wilk test)
 
