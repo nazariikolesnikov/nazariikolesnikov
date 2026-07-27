@@ -44,10 +44,14 @@ Today, I’m fully dedicated to large-scale projects. My approach is based on re
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
 
-
 ## 💻 Projects I'm currently working on
 
 ## Hypothesis Testing (Practical Training)
+
+## 📝 Description
+
+The Shapiro-Wilk test. The Mann-Whitney-Wilcoxon test. Student's t-test. The Fligner-Killin test.
+Independent and paired samples. The chi-square test. Pearson's test.
 
 ## 🤖 Technologies
 
