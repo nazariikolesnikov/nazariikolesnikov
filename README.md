@@ -63,6 +63,8 @@ Today, I’m fully dedicated to large-scale projects. My approach is based on re
 
 <img width="5647" height="3107" alt="Mann-Whitney U-test" src="https://github.com/nazariikolesnikov/hypothesis-testing-practical-training/blob/main/Mann-Whitney%20U-test.png" />
 
+⚙️ Project: [k-nearest-neighbors-algorithm-practical-training](https://github.com/nazariikolesnikov/k-nearest-neighbors-algorithm-practical-training)
+
 ## K-Nearest Neighbors Algorithm (Practical Training)
 
 ## 📝 Description
