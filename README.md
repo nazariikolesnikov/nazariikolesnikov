@@ -47,7 +47,7 @@ Today, I’m fully dedicated to large-scale projects. My approach is based on re
 
 ## 💻 Projects I'm currently working on
 
-# Hypothesis Testing (Practical Training)
+## Hypothesis Testing (Practical Training)
 
 ## 🤖 Technologies
 
