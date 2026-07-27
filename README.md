@@ -66,6 +66,16 @@ Independent and paired samples. The chi-square test. Pearson's test.
 
 ## 📊 Visualizations
 
+### 👨‍👨‍👧 Reading color names based on the font color (The Pearson's Test)
+
+## 📝 Description
+
+The Strup effect, published by American psychologist John Ridley Strup in 1935 in the article “A Study of Interference in Serial Verbal Responses.” The author investigated the opposite phenomenon: the speed at which people name the color of the ink used to write words when the meaning of the word contradicts that color (for example, the word “red” written in green ink).
+
+#### 📉 p-value (by the Pearson`s  test): 0.0162416779538072
+
+<img width="5647" height="3107" alt="Mann-Whitney U-test" src="https://github.com/nazariikolesnikov/hypothesis-testing-practical-training/blob/main/Reading%20color%20names%20based%20on%20the%20font%20color.png" />
+
 ### 🎩🤵🏻 Age at that European aristocrats die (The Pearson's Test)
 
 #### 📈 p-value (by the Pearson's  test): ~ 1.52 * 10 ^ {-26} (1.5181184197728794e-26)
@@ -78,12 +88,6 @@ Independent and paired samples. The chi-square test. Pearson's test.
 #### 📉 p-value:  5.146345707629406e-33
 
 <img width="5647" height="3107" alt="Mann-Whitney U-test" src="https://github.com/nazariikolesnikov/hypothesis-testing-practical-training/blob/main/Correlation%20Between%20Price%20and%20Square%20Footage%20of%20Homes%20in%20Albuquerque.png" />
-
-### 👨‍👨‍👧 Reading color names based on the font color (The Pearson's Test)
-
-#### 📉 p-value (by the Pearson`s  test): 0.0162416779538072
-
-<img width="5647" height="3107" alt="Mann-Whitney U-test" src="https://github.com/nazariikolesnikov/hypothesis-testing-practical-training/blob/main/Reading%20color%20names%20based%20on%20the%20font%20color.png" />
 
 ### 🏘️ Albuquerque House Prices (The Mann-Whitney-Wilcoxon Test)
 
