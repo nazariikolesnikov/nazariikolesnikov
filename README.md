@@ -1,3 +1,4 @@
+
 ## 👋 Hi! I'm Nazarii Kolesnikov. I am a Data Scientist
 
 As a Data Scientist, I combine technical precision with a deep understanding of user needs.
@@ -77,6 +78,12 @@ Independent and paired samples. The chi-square test. Pearson's test.
 #### 📉 p-value:  5.146345707629406e-33
 
 <img width="5647" height="3107" alt="Mann-Whitney U-test" src="https://github.com/nazariikolesnikov/hypothesis-testing-practical-training/blob/main/Correlation%20Between%20Price%20and%20Square%20Footage%20of%20Homes%20in%20Albuquerque.png" />
+
+### 🏡🏘️ Reading color names based on the font color (The Pearson's Test)
+
+#### 📉 p-value (by the Pearson`s  test): 0.0162416779538072
+
+<img width="5647" height="3107" alt="Mann-Whitney U-test" src="https://github.com/nazariikolesnikov/hypothesis-testing-practical-training/blob/main/Reading%20color%20names%20based%20on%20the%20font%20color.png" />
 
 ### 🏘️ Albuquerque House Prices (The Mann-Whitney-Wilcoxon Test)
 
