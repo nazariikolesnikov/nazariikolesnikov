@@ -103,7 +103,7 @@ We check whether the prices of corner houses in Albuquerque differ from those of
 Let's examine the obvious fact that a house's square footage correlates with its price.
 
 #### 📊 Person`s ρ:  0.8447950985552122
-#### 📉 p-value:  5.146345707629406e-33
+#### 📉 p-value:   ~ 5.15 * 10 ^ {-33} (5.146345707629406e-33)
 
 <img width="5647" height="3107" alt="Mann-Whitney U-test" src="https://github.com/nazariikolesnikov/hypothesis-testing-practical-training/blob/main/Correlation%20Between%20Price%20and%20Square%20Footage%20of%20Homes%20in%20Albuquerque.png" />
 
