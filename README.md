@@ -47,6 +47,29 @@ Today, I’m fully dedicated to large-scale projects. My approach is based on re
 
 ## 💻 Projects I'm currently working on
 
+## K-Nearest Neighbors Algorithm (Practical Training)
+
+## 📝 Description
+
+Discussion of the wine classification problem. Training and test sets. Key parameters of the `train_test_split` procedure. Standardization. The `KNeighborsClassifier` procedure and its parameters. Confusion matrix and accuracy.
+Determining the optimal number of nearest neighbors.
+
+## ⚙️🤖 Technologies 
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+## 📊 Visualizations
+
+### 🍷 Error rates of different values of K (The Wine Collections)
+
+### ⚙️ Project: [k-nearest-neighbors-algorithm-practical-training](https://github.com/nazariikolesnikov/k-nearest-neighbors-algorithm-practical-training)
+
+<img width="5647" height="3107" alt="Time Series Forcasting (ARIMA)" src="https://github.com/nazariikolesnikov/k-nearest-neighbors-algorithm-practical-training/blob/main/Error%20rate%20for%20different%20values%20of%20K.png" />
+
 ## Hypothesis Testing (Practical Training)
 
 ## 📝 Description
@@ -65,22 +88,6 @@ Independent and paired samples. The chi-square test. Pearson's test.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 📊 Visualizations
-
-### A/B Testing, Testing a Statistical Hypothesis
-
-## 🤖 Technologies
-
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-## 📊 Visualizations
-
-<img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesist" src="https://github.com/nazariikolesnikov/a-b-testing-practical-training/blob/main/AB%20Testing%20Results%20200%20sucesses%20versus%20180%20successes%20(N%20%3D%201000).png" />
-
-<img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesis" src="https://github.com/nazariikolesnikov/a-b-testing-practical-training/blob/main/AB%20Testing%20Results%20200%20sucesses%20versus%20150%20successes%20(N%20%3D%201000).png" />
 
 ### 👨‍👨‍👧 Reading color names based on the font color (The Pearson's Test)
 
@@ -133,16 +140,11 @@ Testing the normality of the distribution of the population among cities of the 
 
 <img width="5647" height="3107" alt="Mann-Whitney U-test" src="https://github.com/nazariikolesnikov/hypothesis-testing-practical-training/blob/main/Town%201959%20Shapiro-Wilk%20Test.png" />
 
-## K-Nearest Neighbors Algorithm (Practical Training)
+### A/B Testing, Testing a Statistical Hypothesis
 
-## 📝 Description
+## 🤖 Technologies
 
-Discussion of the wine classification problem. Training and test sets. Key parameters of the `train_test_split` procedure. Standardization. The `KNeighborsClassifier` procedure and its parameters. Confusion matrix and accuracy.
-Determining the optimal number of nearest neighbors.
-
-## ⚙️🤖 Technologies 
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -150,9 +152,7 @@ Determining the optimal number of nearest neighbors.
 
 ## 📊 Visualizations
 
-### 🍷 Error rates of different values of K (The Wine Collections)
+<img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesist" src="https://github.com/nazariikolesnikov/a-b-testing-practical-training/blob/main/AB%20Testing%20Results%20200%20sucesses%20versus%20180%20successes%20(N%20%3D%201000).png" />
 
-### ⚙️ Project: [k-nearest-neighbors-algorithm-practical-training](https://github.com/nazariikolesnikov/k-nearest-neighbors-algorithm-practical-training)
-
-<img width="5647" height="3107" alt="Time Series Forcasting (ARIMA)" src="https://github.com/nazariikolesnikov/k-nearest-neighbors-algorithm-practical-training/blob/main/Error%20rate%20for%20different%20values%20of%20K.png" />
+<img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesis" src="https://github.com/nazariikolesnikov/a-b-testing-practical-training/blob/main/AB%20Testing%20Results%20200%20sucesses%20versus%20150%20successes%20(N%20%3D%201000).png" />
 
