@@ -63,7 +63,7 @@ Today, I’m fully dedicated to large-scale projects. My approach is based on re
 
 <img width="5647" height="3107" alt="Mann-Whitney U-test" src="https://github.com/nazariikolesnikov/hypothesis-testing-practical-training/blob/main/Mann-Whitney%20U-test.png" />
 
-⚙️ Project: [hypothesis-testing-practical-training](https://github.com/nazariikolesnikov/hypothesis-testing-practical-training)
+### ⚙️ Project: [hypothesis-testing-practical-training](https://github.com/nazariikolesnikov/hypothesis-testing-practical-training)
 
 ## K-Nearest Neighbors Algorithm (Practical Training)
 
@@ -83,4 +83,4 @@ Determining the optimal number of nearest neighbors.
 ## 📊 Visualizations
 <img width="5647" height="3107" alt="Time Series Forcasting (ARIMA)" src="https://github.com/nazariikolesnikov/k-nearest-neighbors-algorithm-practical-training/blob/main/Error%20rate%20for%20different%20values%20of%20K.png" />
 
-⚙️ Project: [k-nearest-neighbors-algorithm-practical-training](https://github.com/nazariikolesnikov/k-nearest-neighbors-algorithm-practical-training)
+### ⚙️ Project: [k-nearest-neighbors-algorithm-practical-training](https://github.com/nazariikolesnikov/k-nearest-neighbors-algorithm-practical-training)
