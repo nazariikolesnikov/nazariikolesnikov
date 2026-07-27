@@ -76,6 +76,8 @@ Determining the optimal number of nearest neighbors.
 The Shapiro-Wilk test. The Mann-Whitney-Wilcoxon test. Student's t-test. The Fligner-Killin test.
 Independent and paired samples. The chi-square test. Pearson's test.
 
+#### ⚙️ Project: [hypothesis-testing-practical-training](https://github.com/nazariikolesnikov/hypothesis-testing-practical-training)
+
 ## 🤖 Technologies
 
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
@@ -86,11 +88,9 @@ Independent and paired samples. The chi-square test. Pearson's test.
 
 ## 📊 Visualizations
 
-### 🏘️ The Mann-Whitney-Wilcoxon Criterion (Albuquerque House Prices)
+### 🏘️ The Mann-Whitney-Wilcoxon Test (Albuquerque House Prices)
 
-#### ⚙️ Project: [hypothesis-testing-practical-training](https://github.com/nazariikolesnikov/hypothesis-testing-practical-training)
-
-#### 📈 p-value (by the Mann-Whitney-Wilcoxon criterion): 0.402204078621
+#### 📈 p-value (by the Mann-Whitney-Wilcoxon test): 0.402204078621
 
 <img width="5647" height="3107" alt="Mann-Whitney U-test" src="https://github.com/nazariikolesnikov/hypothesis-testing-practical-training/blob/main/Mann-Whitney-Wilcoxon%20U-test.png" />
 
