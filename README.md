@@ -79,7 +79,7 @@ Independent and paired samples. The chi-square test. Pearson's test.
 
 <img width="5647" height="3107" alt="Mann-Whitney U-test" src="https://github.com/nazariikolesnikov/hypothesis-testing-practical-training/blob/main/Correlation%20Between%20Price%20and%20Square%20Footage%20of%20Homes%20in%20Albuquerque.png" />
 
-### 🏡🏘️ Reading color names based on the font color (The Pearson's Test)
+### 👨‍👨‍👧 Reading color names based on the font color (The Pearson's Test)
 
 #### 📉 p-value (by the Pearson`s  test): 0.0162416779538072
 
