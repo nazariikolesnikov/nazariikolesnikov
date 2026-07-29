@@ -68,7 +68,7 @@ Building a model to predict continuous values based on generated data with rando
 
 <img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesis" src="https://github.com/nazariikolesnikov/logistic-and-linear-regression-with-tensorflow/blob/main/Logistic%20Regression%20Model.png" />
 
-# A/B Testing, Testing a Statistical Hypothesis
+## A/B Testing, Testing a Statistical Hypothesis
 
 ## 🤖 Technologies
 
@@ -109,7 +109,7 @@ Determining the optimal number of nearest neighbors.
 
 <img width="5647" height="3107" alt="K-Nearest Neighbors Algorithm" src="https://github.com/nazariikolesnikov/k-nearest-neighbors-algorithm-practical-training/blob/main/Error%20rate%20for%20different%20values%20of%20K.png" />
 
-# Time Series Forcasting (Holt-Winters, ARIMA)
+## Time Series Forcasting (Holt-Winters, ARIMA)
 
 ## 🤖 Technologies
 
