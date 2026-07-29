@@ -105,11 +105,10 @@ Determining the optimal number of nearest neighbors.
 
 ## 📊 Visualizations
 
-### 🍷 Error rates of different values of K (The Wine Collections)
-
-### ⚙️ Project: [k-nearest-neighbors-algorithm-practical-training](https://github.com/nazariikolesnikov/k-nearest-neighbors-algorithm-practical-training)
-
+#### 🍷 Error rates of different values of K (The Wine Collections)
 <img width="5647" height="3107" alt="Time Series Forcasting (ARIMA)" src="https://github.com/nazariikolesnikov/k-nearest-neighbors-algorithm-practical-training/blob/main/Error%20rate%20for%20different%20values%20of%20K.png" />
+
+## ⚙️ Project: [k-nearest-neighbors-algorithm-practical-training](https://github.com/nazariikolesnikov/k-nearest-neighbors-algorithm-practical-training)
 
 ## Hypothesis Testing (Practical Training)
 
