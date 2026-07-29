@@ -95,6 +95,8 @@ This project is a custom toolkit for conducting A/B testing, testing statistical
 Discussion of the wine classification problem. Training and test sets. Key parameters of the `train_test_split` procedure. Standardization. The `KNeighborsClassifier` procedure and its parameters. Confusion matrix and accuracy.
 Determining the optimal number of nearest neighbors.
 
+#### ⚙️ Project: [k-nearest-neighbors-algorithm-practical-training](https://github.com/nazariikolesnikov/k-nearest-neighbors-algorithm-practical-training)
+
 ## ⚙️🤖 Technologies 
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -105,10 +107,7 @@ Determining the optimal number of nearest neighbors.
 
 ## 📊 Visualizations
 
-#### 🍷 Error rates of different values of K (The Wine Collections)
 <img width="5647" height="3107" alt="Time Series Forcasting (ARIMA)" src="https://github.com/nazariikolesnikov/k-nearest-neighbors-algorithm-practical-training/blob/main/Error%20rate%20for%20different%20values%20of%20K.png" />
-
-## ⚙️ Project: [k-nearest-neighbors-algorithm-practical-training](https://github.com/nazariikolesnikov/k-nearest-neighbors-algorithm-practical-training)
 
 ## Hypothesis Testing (Practical Training)
 
