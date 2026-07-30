@@ -47,7 +47,7 @@ Today, I’m fully dedicated to large-scale projects. My approach is based on re
 
 ## 💻 Projects I'm currently working on
 
-## Decision Tree Algorithm with Machine Learning
+## Decision Tree Algorithm with Machine Learning (Practical Training)
 
 ## 🤖 Technologies
 
@@ -67,7 +67,7 @@ Cleaning the datasets, converting categorical text variables to numerical format
 
 <img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesis" src="https://github.com/nazariikolesnikov/decision-tree-algorithm-with-machine-learning/blob/main/Decision%20Tree%20Classifier.png" />
 
-## Logistic and Linear Regression with TensorFlow
+## Logistic and Linear Regression with TensorFlow (Practical Training)
 
 ## 🤖 Technologies
 
@@ -89,7 +89,7 @@ Building a model to predict continuous values based on generated data with rando
 
 <img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesis" src="https://github.com/nazariikolesnikov/logistic-and-linear-regression-with-tensorflow/blob/main/Logistic%20Regression%20Model.png" />
 
-## A/B Testing, Testing a Statistical Hypothesis
+## A/B Testing, Testing a Statistical Hypothesis (Practical Training)
 
 ## 🤖 Technologies
 
@@ -130,7 +130,7 @@ Determining the optimal number of nearest neighbors.
 
 <img width="5647" height="3107" alt="K-Nearest Neighbors Algorithm" src="https://github.com/nazariikolesnikov/k-nearest-neighbors-algorithm-practical-training/blob/main/Error%20rate%20for%20different%20values%20of%20K.png" />
 
-## Time Series Forcasting (Holt-Winters, ARIMA)
+## Time Series Forcasting (Holt-Winters, ARIMA) (Practical Training)
 
 ## 🤖 Technologies
 
