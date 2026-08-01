@@ -1,5 +1,5 @@
 
-## 👋 Hi! I'm Nazarii Kolesnikov. I am a Junior Data Scientist
+## 👋 Hi! I'm Nazarii Kolesnikov. I am a Data Scientist
 
 As a Data Scientist, I combine technical precision with a deep understanding of user needs.
 Today, I’m fully dedicated to large-scale projects. My approach is based on responsibility, continuous self-improvement, and the ability to work as part of a team. I am open to new opportunities and growth, where my experience and vision will help create exceptional digital products.
@@ -7,6 +7,7 @@ Today, I’m fully dedicated to large-scale projects. My approach is based on re
 ## ⚙️🤖 Let's connect !
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazarii-kolesnikov-84ba89357)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:380678333023)
 [![Viber](https://img.shields.io/badge/Viber-8B66A9?style=for-the-badge&logo=viber&logoColor=white)](tel:380678333023)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nazarkolesnikov147@gmail.com)
 
