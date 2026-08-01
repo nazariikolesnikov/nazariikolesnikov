@@ -16,6 +16,10 @@ Today, I’m fully dedicated to large-scale projects. My approach is based on re
 
 ## A/B Testing, Testing a Statistical Hypothesis (Practical Training)
 
+## 📝 Description
+
+This project is a custom toolkit for conducting A/B testing, testing statistical hypotheses, and performing in-depth data analysis using Python. The project demonstrates a fundamental understanding of mathematical statistics, as key statistical functions are implemented from scratch without using high-level statistical abstractions. Accurate calculation of parameters, Z-scores, and two-tailed p-values for comparing two samples. Development of scripts for simulating random events using the `random` module for the empirical validation of statistical hypotheses on large samples (for example, 1,000 coin-flip iterations). Construction of visual probability density plots for the standard normal distribution using the formula
+
 ## 🤖 Technologies
 
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
@@ -23,10 +27,6 @@ Today, I’m fully dedicated to large-scale projects. My approach is based on re
 ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-## 📝 Description
-
-This project is a custom toolkit for conducting A/B testing, testing statistical hypotheses, and performing in-depth data analysis using Python. The project demonstrates a fundamental understanding of mathematical statistics, as key statistical functions are implemented from scratch without using high-level statistical abstractions. Accurate calculation of parameters, Z-scores, and two-tailed p-values for comparing two samples. Development of scripts for simulating random events using the `random` module for the empirical validation of statistical hypotheses on large samples (for example, 1,000 coin-flip iterations). Construction of visual probability density plots for the standard normal distribution using the formula
 
 ## 📊 Visualizations
 
