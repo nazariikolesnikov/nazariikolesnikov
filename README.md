@@ -1,8 +1,8 @@
 
 ## 👋 Hi! I'm Nazarii Kolesnikov. I am a Data Scientist
 
-As a Data Scientist, I combine technical precision with a deep understanding of user needs.
-Today, I’m fully dedicated to large-scale projects. My approach is based on responsibility, continuous self-improvement, and the ability to work as part of a team. I am open to new opportunities and growth, where my experience and vision will help create exceptional digital products. Let's connect !
+[![Gmail](mailto:nazarijkolesnikov053@gmail.com)](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![Blogger]](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
 
 ## 💻 Projects I'm currently working on
 
