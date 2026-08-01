@@ -13,25 +13,27 @@ Today, I’m fully dedicated to large-scale projects. My approach is based on re
 
 ## 💻 Projects I'm currently working on
 
-## A/B Testing, Testing a Statistical Hypothesis (Practical Training)
+## Logistic and Linear Regression with TensorFlow (Practical Training)
 
 ## 📝 Description
 
-This project is a custom toolkit for conducting A/B testing, testing statistical hypotheses, and performing in-depth data analysis using Python. The project demonstrates a fundamental understanding of mathematical statistics, as key statistical functions are implemented from scratch without using high-level statistical abstractions. Accurate calculation of parameters, Z-scores, and two-tailed p-values for comparing two samples. Development of scripts for simulating random events using the `random` module for the empirical validation of statistical hypotheses on large samples (for example, 1,000 coin-flip iterations). Construction of visual probability density plots for the standard normal distribution using the formula
+Building a model to predict continuous values based on generated data with random noise. Parameter optimization (weights and bias) is performed using gradient descent, and model quality is evaluated using the root mean square (RMS) error and Pearson’s coefficient of determination. : Solving a binary classification problem for two generated data clusters. The project involves calculating the loss function (cross-entropy), finding the optimal decision boundary, and evaluating the model’s classification accuracy. Creating informative and visually appealing graphs to display data distribution, trend lines, and classification boundaries, which allows for a clear interpretation of the algorithms’ results.
 
 ## 🤖 Technologies
 
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 📊 Visualizations
 
-<img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesist" src="https://github.com/nazariikolesnikov/a-b-testing-practical-training/blob/main/AB%20Testing%20Results%20200%20sucesses%20versus%20180%20successes%20(N%20%3D%201000).png" />
+<img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesist" src="https://github.com/nazariikolesnikov/logistic-and-linear-regression-with-tensorflow/blob/main/Linear%20Regression%20Model%2C%20y%20%3D%208.5x%20-%203.5%20%2B%20N%20(0%2C%200.5).png" />
 
-<img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesis" src="https://github.com/nazariikolesnikov/a-b-testing-practical-training/blob/main/AB%20Testing%20Results%20200%20sucesses%20versus%20150%20successes%20(N%20%3D%201000).png" />
+<img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesis" src="https://github.com/nazariikolesnikov/logistic-and-linear-regression-with-tensorflow/blob/main/Logistic%20Regression%20Model.png" />
 
 ## Decision Tree Algorithm with Machine Learning (Practical Training)
 
@@ -51,27 +53,25 @@ Cleaning the datasets, converting categorical text variables to numerical format
 
 <img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesist" src="https://github.com/nazariikolesnikov/decision-tree-algorithm-with-machine-learning/blob/main/ROC-curve.png" />
 
-## Logistic and Linear Regression with TensorFlow (Practical Training)
-
-## 🤖 Technologies
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+## A/B Testing, Testing a Statistical Hypothesis (Practical Training)
 
 ## 📝 Description
 
-Building a model to predict continuous values based on generated data with random noise. Parameter optimization (weights and bias) is performed using gradient descent, and model quality is evaluated using the root mean square (RMS) error and Pearson’s coefficient of determination. : Solving a binary classification problem for two generated data clusters. The project involves calculating the loss function (cross-entropy), finding the optimal decision boundary, and evaluating the model’s classification accuracy. Creating informative and visually appealing graphs to display data distribution, trend lines, and classification boundaries, which allows for a clear interpretation of the algorithms’ results.
+This project is a custom toolkit for conducting A/B testing, testing statistical hypotheses, and performing in-depth data analysis using Python. The project demonstrates a fundamental understanding of mathematical statistics, as key statistical functions are implemented from scratch without using high-level statistical abstractions. Accurate calculation of parameters, Z-scores, and two-tailed p-values for comparing two samples. Development of scripts for simulating random events using the `random` module for the empirical validation of statistical hypotheses on large samples (for example, 1,000 coin-flip iterations). Construction of visual probability density plots for the standard normal distribution using the formula
+
+## 🤖 Technologies
+
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 📊 Visualizations
 
-<img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesist" src="https://github.com/nazariikolesnikov/logistic-and-linear-regression-with-tensorflow/blob/main/Linear%20Regression%20Model%2C%20y%20%3D%208.5x%20-%203.5%20%2B%20N%20(0%2C%200.5).png" />
+<img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesist" src="https://github.com/nazariikolesnikov/a-b-testing-practical-training/blob/main/AB%20Testing%20Results%20200%20sucesses%20versus%20180%20successes%20(N%20%3D%201000).png" />
 
-<img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesis" src="https://github.com/nazariikolesnikov/logistic-and-linear-regression-with-tensorflow/blob/main/Logistic%20Regression%20Model.png" />
+<img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesis" src="https://github.com/nazariikolesnikov/a-b-testing-practical-training/blob/main/AB%20Testing%20Results%20200%20sucesses%20versus%20150%20successes%20(N%20%3D%201000).png" />
 
 ## K-Nearest Neighbors Algorithm (Practical Training)
 
