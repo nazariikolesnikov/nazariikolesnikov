@@ -37,6 +37,10 @@ Building a model to predict continuous values based on generated data with rando
 
 ## Decision Tree Algorithm with Machine Learning (Practical Training)
 
+## 📝 Description
+
+Cleaning the datasets, converting categorical text variables to numerical formats using `LabelEncoder`, and scaling features using `StandardScaler`. Splitting the data into training and test sets (train_test_split). Building and training two classifiers: Logistic Regression and Decision Tree. Comprehensive analysis of model quality using key statistical metrics: `Accuracy Score`, `F1-score`, `Confusion Matrix`, and a detailed `Classification Report`. Plotting a `ROC` (`Receiver Operating Characteristic`) curve using the matplotlib library to visually compare the algorithms’ ability to distinguish between classes. A visual and statistical comparison revealed that, for the selected dataset, the logistic regression model demonstrated better generalization ability than the decision tree. The area under the curve (`AUC`) for logistic regression was `0.69`, while for the decision tree it was `0.60`.
+
 ## 🤖 Technologies
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -44,10 +48,6 @@ Building a model to predict continuous values based on generated data with rando
 ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-## 📝 Description
-
-Cleaning the datasets, converting categorical text variables to numerical formats using `LabelEncoder`, and scaling features using `StandardScaler`. Splitting the data into training and test sets (train_test_split). Building and training two classifiers: Logistic Regression and Decision Tree. Comprehensive analysis of model quality using key statistical metrics: `Accuracy Score`, `F1-score`, `Confusion Matrix`, and a detailed `Classification Report`. Plotting a `ROC` (`Receiver Operating Characteristic`) curve using the matplotlib library to visually compare the algorithms’ ability to distinguish between classes. A visual and statistical comparison revealed that, for the selected dataset, the logistic regression model demonstrated better generalization ability than the decision tree. The area under the curve (`AUC`) for logistic regression was `0.69`, while for the decision tree it was `0.60`.
 
 ## 📊 Visualizations
 
