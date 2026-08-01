@@ -7,6 +7,7 @@ Today, I’m fully dedicated to large-scale projects. My approach is based on re
 ## ⚙️🤖 Let's connect !
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazarii-kolesnikov-84ba89357)
+[![Gmail](mailto:nazarkolesnikov147@gmail.com)](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ## 💻 Projects I'm currently working on
 
