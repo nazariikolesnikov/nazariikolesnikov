@@ -125,58 +125,6 @@ Determining the optimal number of nearest neighbors.
 
 <img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesist" src="https://github.com/nazariikolesnikov/data-analysis-with-polars-python-practice/blob/main/Average%20number%20of%20downloads%20by%20platform%20Downloded%20vs.%20Uploaded%20Data.png" />
 
-## Hypothesis Testing (Practical Training)
-
-## 🤖 Technologies
-
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-## 📝 Description
-
-The Shapiro-Wilk test. The Mann-Whitney-Wilcoxon test. Student's t-test. The Fligner-Killin test.
-Independent and paired samples. The chi-square test. Pearson's test.
-
-#### ⚙️ Project: [hypothesis-testing-practical-training](https://github.com/nazariikolesnikov/hypothesis-testing-practical-training)
-
-## 📊 Visualizations
-
-### 👨‍👨‍👧 Reading color names based on the font color (The Pearson's Test)
-
-## 📝 Description
-
-The Strup effect, published by American psychologist John Ridley Strup in 1935 in the article “A Study of Interference in Serial Verbal Responses.” The author investigated the opposite phenomenon: the speed at which people name the color of the ink used to write words when the meaning of the word contradicts that color (for example, the word “red” written in green ink).
-
-<img width="5647" height="3107" alt="Mann-Whitney U-test" src="https://github.com/nazariikolesnikov/hypothesis-testing-practical-training/blob/main/Reading%20color%20names%20based%20on%20the%20font%20color.png" />
-
-### 🎩🤵🏻 Age at that European aristocrats die (The Pearson's Test)
-
-## 📝 Description
-
-Data on the age at which Europeans died in the mid-19th century, broken down by social class (sovereignty, aristocracy, and gentry).
-
-<img width="5647" height="3107" alt="Mann-Whitney U-test" src="https://github.com/nazariikolesnikov/hypothesis-testing-practical-training/blob/main/Age%20at%20that%20European%20aristocrats%20die%20Pearson%60s%20Test.png" />
-
-### 🏘️ Albuquerque House Prices (The Mann-Whitney-Wilcoxon Test)
-
-## 📝 Description
-
-We check whether the prices of corner houses in Albuquerque differ from those of non-corner houses, while also checking the normality of the data and the equality of variances, and we will try to apply the Student's t-test
-
-<img width="5647" height="3107" alt="Mann-Whitney U-test" src="https://github.com/nazariikolesnikov/hypothesis-testing-practical-training/blob/main/Mann-Whitney-Wilcoxon%20U-test.png" />
-
-### 🏡🏘️ Correlation Between Price and Square Footage of Homes in Albuquerque (The Pearson's Test)
-
-## 📝 Description
-
-Let's examine the obvious fact that a house's square footage correlates with its price.
-
-<img width="5647" height="3107" alt="Mann-Whitney U-test" src="https://github.com/nazariikolesnikov/hypothesis-testing-practical-training/blob/main/Correlation%20Between%20Price%20and%20Square%20Footage%20of%20Homes%20in%20Albuquerque.png" />
-
-### 👩‍👩‍👧‍👦 Population of Soviet cities (the Shapiro-Wilk test)
 
 ## 📝 Description
 
