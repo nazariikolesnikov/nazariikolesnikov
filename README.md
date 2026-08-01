@@ -30,6 +30,7 @@ This project focuses on time series analysis and forecasting future sales volume
 ## 📊 Visualizations
 <img width="5647" height="3107" alt="Time Series Forcasting (ARIMA)" src="https://github.com/nazariikolesnikov/time-series-forcasting-holt-winters-arima/blob/main/Comprehensive%20Sales%20Forecasting%20(ARIMA%2C%20Holt-Winters%2C%20XGBoost%2C%20Random%20Forest).png" />
 
+#### ⚙️ Project: [link](https://github.com/nazariikolesnikov/k-nearest-neighbors-algorithm-practical-training)
 
 ## Logistic and Linear Regression with TensorFlow (Practical Training)
 
@@ -98,7 +99,7 @@ This project is a custom toolkit for conducting A/B testing, testing statistical
 Discussion of the wine classification problem. Training and test sets. Key parameters of the `train_test_split` procedure. Standardization. The `KNeighborsClassifier` procedure and its parameters. Confusion matrix and accuracy.
 Determining the optimal number of nearest neighbors.
 
-#### ⚙️ Project: [k-nearest-neighbors-algorithm-practical-training](https://github.com/nazariikolesnikov/k-nearest-neighbors-algorithm-practical-training)
+#### ⚙️ Project: [link](https://github.com/nazariikolesnikov/k-nearest-neighbors-algorithm-practical-training)
 
 ## ⚙️🤖 Technologies 
 
