@@ -2,16 +2,7 @@
 ## 👋 Hi! I'm Nazarii Kolesnikov. I am a Data Scientist
 
 As a Data Scientist, I combine technical precision with a deep understanding of user needs.
-Today, I’m fully dedicated to large-scale projects. My approach is based on responsibility, continuous self-improvement, and the ability to work as part of a team. I am open to new opportunities and growth, where my experience and vision will help create exceptional digital products.
-
-## ⚙️🤖 Let's connect !
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
+Today, I’m fully dedicated to large-scale projects. My approach is based on responsibility, continuous self-improvement, and the ability to work as part of a team. I am open to new opportunities and growth, where my experience and vision will help create exceptional digital products. Let's connect !
 
 ## 💻 Projects I'm currently working on
 
@@ -19,11 +10,12 @@ Today, I’m fully dedicated to large-scale projects. My approach is based on re
 
 ## 🤖 Technologies
 
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ### ⚙️ Project: [link](https://github.com/nazariikolesnikov/time-series-forcasting-arima-holt-winters-xgboost-random-forest)
 
