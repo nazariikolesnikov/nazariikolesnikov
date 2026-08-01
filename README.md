@@ -25,7 +25,7 @@ Today, I’m fully dedicated to large-scale projects. My approach is based on re
 
 ## 📝 Description
 
-This project focuses on time series analysis and forecasting future sales volumes based on the company’s historical data. The main goal is to build reliable predictive models to optimize business processes. The rohitsahoo-sales-forecasting.csv dataset is used for the analysis. The data includes detailed transaction information, such as order dates, customer information (name, segment), geographic data (country, region, city), as well as product details (category, subcategory) and financial metrics (sales). ARIMA and Auto ARIMA models, as well as the Holt-Winters Exponential Smoothing algorithm, are used to build forecasts. The accuracy of the models will be evaluated using the mean squared error (MSE) and mean absolute error (MAE) metrics.
+This project focuses on time series analysis and forecasting future sales volumes based on the company’s historical data. The main goal is to build reliable predictive models to optimize business processes. The `rohitsahoo-sales-forecasting.csv` dataset is used for the analysis. The data includes detailed transaction information, such as order dates, customer information (name, segment), geographic data (country, region, city), as well as product details (category, subcategory) and financial metrics (sales). `ARIMA` and Auto ARIMA models, as well as the `Holt-Winters` Exponential Smoothing algorithm, are used to build forecasts. The accuracy of the models will be evaluated using the mean squared error (`MSE`) and mean absolute error (`MAE`) metrics.
 
 ## 📊 Visualizations
 <img width="5647" height="3107" alt="Time Series Forcasting (ARIMA)" src="https://github.com/nazariikolesnikov/time-series-forcasting-holt-winters-arima/blob/main/Forecasting%20a%20Sales%20Time%20Series%20While%20Taking%20Seasonality%20Into%20Account%20(Holt-Winters%2C%20ARIMA).png" />
@@ -34,7 +34,7 @@ This project focuses on time series analysis and forecasting future sales volume
 
 ## 📝 Description
 
-Building a model to predict continuous values based on generated data with random noise. Parameter optimization (weights and bias) is performed using gradient descent, and model quality is evaluated using the root mean square (RMS) error and Pearson’s coefficient of determination. : Solving a binary classification problem for two generated data clusters. The project involves calculating the loss function (cross-entropy), finding the optimal decision boundary, and evaluating the model’s classification accuracy. Creating informative and visually appealing graphs to display data distribution, trend lines, and classification boundaries, which allows for a clear interpretation of the algorithms’ results.
+Building a model to predict continuous values based on generated data with random noise. Parameter optimization (`weights` and `bias`) is performed using gradient descent, and model quality is evaluated using the root mean square (`RMS`) error and `Pearson’s coefficient of determination`. : Solving a binary classification problem for two generated data clusters. The project involves calculating the loss function (cross-entropy), finding the optimal decision boundary, and evaluating the model’s classification accuracy. Creating informative and visually appealing graphs to display data distribution, trend lines, and classification boundaries, which allows for a clear interpretation of the algorithms’ results.
 
 ## 🤖 Technologies
 
