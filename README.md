@@ -13,6 +13,23 @@ Today, I’m fully dedicated to large-scale projects. My approach is based on re
 
 ## 💻 Projects I'm currently working on
 
+# Time Series Forcasting (Holt-Winters, ARIMA) (Practical Training)
+
+## 🤖 Technologies
+
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+## 📝 Description
+
+This project focuses on time series analysis and forecasting future sales volumes based on the company’s historical data. The main goal is to build reliable predictive models to optimize business processes. The rohitsahoo-sales-forecasting.csv dataset is used for the analysis. The data includes detailed transaction information, such as order dates, customer information (name, segment), geographic data (country, region, city), as well as product details (category, subcategory) and financial metrics (sales). ARIMA and Auto ARIMA models, as well as the Holt-Winters Exponential Smoothing algorithm, are used to build forecasts. The accuracy of the models will be evaluated using the mean squared error (MSE) and mean absolute error (MAE) metrics.
+
+## 📊 Visualizations
+<img width="5647" height="3107" alt="Time Series Forcasting (ARIMA)" src="https://github.com/nazariikolesnikov/time-series-forcasting-holt-winters-arima/blob/main/Forecasting%20a%20Sales%20Time%20Series%20While%20Taking%20Seasonality%20Into%20Account%20(Holt-Winters%2C%20ARIMA).png" />
+
 ## Logistic and Linear Regression with TensorFlow (Practical Training)
 
 ## 📝 Description
@@ -93,25 +110,6 @@ Determining the optimal number of nearest neighbors.
 ## 📊 Visualizations
 
 <img width="5647" height="3107" alt="K-Nearest Neighbors Algorithm" src="https://github.com/nazariikolesnikov/k-nearest-neighbors-algorithm-practical-training/blob/main/Error%20rate%20for%20different%20values%20of%20K.png" />
-
-## Time Series Forcasting (Holt-Winters, ARIMA) (Practical Training)
-
-## 🤖 Technologies
-
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-## 📝 Description
-
-This project focuses on time series analysis and forecasting future sales volumes based on the company’s historical data. The main goal is to build reliable predictive models to optimize business processes. The rohitsahoo-sales-forecasting.csv dataset is used for the analysis. The data includes detailed transaction information, such as order dates, customer information (name, segment), geographic data (country, region, city), as well as product details (category, subcategory) and financial metrics (sales). ARIMA and Auto ARIMA models, as well as the Holt-Winters Exponential Smoothing algorithm, are used to build forecasts. The accuracy of the models will be evaluated using the mean squared error (MSE) and mean absolute error (MAE) metrics.
-
-## 📊 Visualizations
-<img width="5647" height="3107" alt="Time Series Forcasting (ARIMA)" src="https://github.com/nazariikolesnikov/time-series-forcasting-holt-winters-arima/blob/main/Time%20Series%20Forecasting%20(Holt-Winters,%20ARIMA).png" />
-
-<img width="5647" height="3107" alt="Time Series Forcasting (ARIMA)" src="https://github.com/nazariikolesnikov/time-series-forcasting-holt-winters-arima/blob/main/Time%20Series%20Seasonal%20Decomposition.png" />
 
 # Data Analysis Practice with Polars (Python) (Practical Training)
 
