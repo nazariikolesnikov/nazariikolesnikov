@@ -2,7 +2,7 @@
 ## 👋 Hi! I'm Nazarii Kolesnikov. I am a Data Scientist
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nazarijkolesnikov053@gmail.com)
-[[!Blogger]](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
+[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.blogger.com/blog/posts/1472892418534435877?hl=uk&tab=jj)
 
 ## 💻 Projects I'm currently working on
 
