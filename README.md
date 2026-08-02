@@ -95,15 +95,6 @@ This project is a custom toolkit for conducting A/B testing, testing statistical
 
 # K-Nearest Neighbors Algorithm (Practical Training)
 
-## 📝 Description
-
-Discussion of the wine classification problem. Training and test sets. Key parameters of the `train_test_split` procedure. Standardization. The `KNeighborsClassifier` procedure and its parameters. Confusion matrix and accuracy.
-Determining the optimal number of nearest neighbors.
-
-⚙️ Project: [link](https://github.com/nazariikolesnikov/time-series-forcasting-arima-holt-winters-xgboost-random-forest)
-
-#### ⚙️ Project: [link](https://github.com/nazariikolesnikov/k-nearest-neighbors-algorithm-practical-training)
-
 ## ⚙️🤖 Technologies 
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -112,19 +103,26 @@ Determining the optimal number of nearest neighbors.
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+⚙️ Project: [link](https://github.com/nazariikolesnikov/time-series-forcasting-arima-holt-winters-xgboost-random-forest](https://github.com/nazariikolesnikov/k-nearest-neighbors-algorithm-practical-training)
+
+## 📝 Description
+
+Discussion of the wine classification problem. Training and test sets. Key parameters of the `train_test_split` procedure. Standardization. The `KNeighborsClassifier` procedure and its parameters. Confusion matrix and accuracy.
+Determining the optimal number of nearest neighbors.
+
 ## 📊 Visualizations
 
 <img width="5647" height="3107" alt="K-Nearest Neighbors Algorithm" src="https://github.com/nazariikolesnikov/k-nearest-neighbors-algorithm-practical-training/blob/main/Error%20rate%20for%20different%20values%20of%20K.png" />
 
 # Data Analysis Practice with Polars (Python) (Practical Training)
 
-⚙️ Project: [link](https://github.com/nazariikolesnikov/time-series-forcasting-arima-holt-winters-xgboost-random-forest)
-
 ## 🤖 Technologies
 
 ![Polars](https://img.shields.io/badge/polars-0075ff?style=for-the-badge&logo=polars&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+⚙️ Project: [link](https://github.com/nazariikolesnikov/time-series-forcasting-arima-holt-winters-xgboost-random-forest)
 
 ## 📊 Visualizations
 
