@@ -113,7 +113,7 @@ This project is a custom toolkit for conducting A/B testing, testing statistical
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-⚙️ Project: [link](https://github.com/nazariikolesnikov/time-series-forcasting-arima-holt-winters-xgboost-random-forest]
+⚙️ Project: [link](https://github.com/nazariikolesnikov/time-series-forcasting-arima-holt-winters-xgboost-random-forest)
 
 ## 📝 Description
 
