@@ -29,7 +29,7 @@ This project focuses on time series analysis and forecasting future sales volume
 ## 📊 Visualizations
 <img width="5647" height="3107" alt="Time Series Forcasting (ARIMA)" src="https://github.com/nazariikolesnikov/time-series-forcasting-holt-winters-arima/blob/main/Comprehensive%20Sales%20Forecasting%20(ARIMA%2C%20Holt-Winters%2C%20XGBoost%2C%20Random%20Forest).png" />
 
-## Logistic and Linear Regression with TensorFlow (Practical Training)
+# Logistic and Linear Regression with TensorFlow (Practical Training)
 
 ## 📝 Description
 
@@ -51,7 +51,7 @@ Building a model to predict continuous values based on generated data with rando
 
 <img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesis" src="https://github.com/nazariikolesnikov/logistic-and-linear-regression-with-tensorflow/blob/main/Logistic%20Regression%20Model.png" />
 
-## Decision Tree Algorithm with Machine Learning (Practical Training)
+# Decision Tree Algorithm with Machine Learning (Practical Training)
 
 ## 📝 Description
 
@@ -69,7 +69,7 @@ Cleaning the datasets, converting categorical text variables to numerical format
 
 <img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesist" src="https://github.com/nazariikolesnikov/decision-tree-algorithm-with-machine-learning/blob/main/ROC-curve.png" />
 
-## A/B Testing, Testing a Statistical Hypothesis (Practical Training)
+# A/B Testing, Testing a Statistical Hypothesis (Practical Training)
 
 ## 📝 Description
 
@@ -89,7 +89,7 @@ This project is a custom toolkit for conducting A/B testing, testing statistical
 
 <img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesis" src="https://github.com/nazariikolesnikov/a-b-testing-practical-training/blob/main/AB%20Testing%20Results%20200%20sucesses%20versus%20150%20successes%20(N%20%3D%201000).png" />
 
-## K-Nearest Neighbors Algorithm (Practical Training)
+# K-Nearest Neighbors Algorithm (Practical Training)
 
 ## 📝 Description
 
