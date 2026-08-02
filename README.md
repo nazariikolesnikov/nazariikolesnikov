@@ -121,10 +121,3 @@ Determining the optimal number of nearest neighbors.
 ## 📊 Visualizations
 
 <img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesist" src="https://github.com/nazariikolesnikov/data-analysis-with-polars-python-practice/blob/main/Average%20number%20of%20downloads%20by%20platform%20Downloded%20vs.%20Uploaded%20Data.png" />
-
-
-## 📝 Description
-
-Testing the normality of the distribution of the population among cities of the Soviet Union as of 1959 year.
-
-<img width="5647" height="3107" alt="Mann-Whitney U-test" src="https://github.com/nazariikolesnikov/hypothesis-testing-practical-training/blob/main/Town%201959%20Shapiro-Wilk%20Test.png" />
