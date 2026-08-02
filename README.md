@@ -24,7 +24,7 @@
 
 This project focuses on time series analysis and forecasting future sales volumes based on the company’s historical data. The main goal is to build reliable predictive models to optimize business processes. The `rohitsahoo-sales-forecasting.csv` dataset is used for the analysis. integrated key tools for data processing (`Pandas`, `NumPy`, `Matplotlib`) and building time-series forecasting models (`ARIMA`, `Holt-Winters`, `XGBoost`, `Random Forest`).  The code reads the file into a DataFrame and checks its structure, which consists of `9,800` rows and `18` columns. The Order Date column is converted from plain text to the datetime format for proper time series processing. The data is grouped by month (using `pd.Grouper`), after which the total sales (`Sales`) for each monthly period are calculated.
 
-## ⚙️ Project: [link](https://github.com/nazariikolesnikov/time-series-forcasting-arima-holt-winters-xgboost-random-forest)
+⚙️ Project: [link](https://github.com/nazariikolesnikov/time-series-forcasting-arima-holt-winters-xgboost-random-forest)
 
 ## 📊 Visualizations
 <img width="5647" height="3107" alt="Time Series Forcasting (ARIMA)" src="https://github.com/nazariikolesnikov/time-series-forcasting-holt-winters-arima/blob/main/Comprehensive%20Sales%20Forecasting%20(ARIMA%2C%20Holt-Winters%2C%20XGBoost%2C%20Random%20Forest).png" />
