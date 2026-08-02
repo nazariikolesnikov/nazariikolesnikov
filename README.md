@@ -35,6 +35,8 @@ This project focuses on time series analysis and forecasting future sales volume
 
 Building a model to predict continuous values based on generated data with random noise. Parameter optimization (`weights` and `bias`) is performed using gradient descent, and model quality is evaluated using the root mean square (`RMS`) error and `Pearson’s coefficient of determination`. : Solving a binary classification problem for two generated data clusters. The project involves calculating the loss function (cross-entropy), finding the optimal decision boundary, and evaluating the model’s classification accuracy. Creating informative and visually appealing graphs to display data distribution, trend lines, and classification boundaries, which allows for a clear interpretation of the algorithms’ results.
 
+⚙️ Project: [link](https://github.com/nazariikolesnikov/time-series-forcasting-arima-holt-winters-xgboost-random-forest)
+
 ## 🤖 Technologies
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -56,6 +58,8 @@ Building a model to predict continuous values based on generated data with rando
 ## 📝 Description
 
 Cleaning the datasets, converting categorical text variables to numerical formats using `LabelEncoder`, and scaling features using `StandardScaler`. Splitting the data into training and test sets (train_test_split). Building and training two classifiers: Logistic Regression and Decision Tree. Comprehensive analysis of model quality using key statistical metrics: `Accuracy Score`, `F1-score`, `Confusion Matrix`, and a detailed `Classification Report`. Plotting a `ROC` (`Receiver Operating Characteristic`) curve using the matplotlib library to visually compare the algorithms’ ability to distinguish between classes. A visual and statistical comparison revealed that, for the selected dataset, the logistic regression model demonstrated better generalization ability than the decision tree. The area under the curve (`AUC`) for logistic regression was `0.69`, while for the decision tree it was `0.60`.
+
+⚙️ Project: [link](https://github.com/nazariikolesnikov/time-series-forcasting-arima-holt-winters-xgboost-random-forest)
 
 ## 🤖 Technologies
 
@@ -96,6 +100,8 @@ This project is a custom toolkit for conducting A/B testing, testing statistical
 Discussion of the wine classification problem. Training and test sets. Key parameters of the `train_test_split` procedure. Standardization. The `KNeighborsClassifier` procedure and its parameters. Confusion matrix and accuracy.
 Determining the optimal number of nearest neighbors.
 
+⚙️ Project: [link](https://github.com/nazariikolesnikov/time-series-forcasting-arima-holt-winters-xgboost-random-forest)
+
 #### ⚙️ Project: [link](https://github.com/nazariikolesnikov/k-nearest-neighbors-algorithm-practical-training)
 
 ## ⚙️🤖 Technologies 
@@ -111,6 +117,8 @@ Determining the optimal number of nearest neighbors.
 <img width="5647" height="3107" alt="K-Nearest Neighbors Algorithm" src="https://github.com/nazariikolesnikov/k-nearest-neighbors-algorithm-practical-training/blob/main/Error%20rate%20for%20different%20values%20of%20K.png" />
 
 # Data Analysis Practice with Polars (Python) (Practical Training)
+
+⚙️ Project: [link](https://github.com/nazariikolesnikov/time-series-forcasting-arima-holt-winters-xgboost-random-forest)
 
 ## 🤖 Technologies
 
