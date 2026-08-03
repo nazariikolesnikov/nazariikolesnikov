@@ -62,7 +62,7 @@ This project focuses on time series analysis and forecasting future sales volume
 
 Cleaning the datasets, converting categorical text variables to numerical formats using `LabelEncoder`, and scaling features using `StandardScaler`. Splitting the data into training and test sets (train_test_split). Building and training two classifiers: Logistic Regression and Decision Tree. Comprehensive analysis of model quality using key statistical metrics: `Accuracy Score`, `F1-score`, `Confusion Matrix`, and a detailed `Classification Report`. Plotting a `ROC` (`Receiver Operating Characteristic`) curve using the matplotlib library to visually compare the algorithms’ ability to distinguish between classes. A visual and statistical comparison revealed that, for the selected dataset, the logistic regression model demonstrated better generalization ability than the decision tree. The area under the curve (`AUC`) for logistic regression was `0.69`, while for the decision tree it was `0.60`.
 
-⚙️ Project: [link](https://github.com/nazariikolesnikov/time-series-forcasting-arima-holt-winters-xgboost-random-forest)
+⚙️ Project: [link](https://github.com/nazariikolesnikov/decision-tree-algorithm-with-machine-learning)
 
 ## 🤖 Technologies
 
@@ -94,7 +94,7 @@ Cleaning the datasets, converting categorical text variables to numerical format
 
 ## 📝 Description
 
-This project is a custom toolkit for conducting A/B testing, testing statistical hypotheses, and performing in-depth data analysis using Python. The project demonstrates a fundamental understanding of mathematical statistics, as key statistical functions are implemented from scratch without using high-level statistical abstractions. Accurate calculation of parameters, Z-scores, and two-tailed p-values for comparing two samples. Development of scripts for simulating random events using the `random` module for the empirical validation of statistical hypotheses on large samples (for example, 1,000 coin-flip iterations). Construction of visual probability density plots for the standard normal distribution using the formula
+This project is a custom toolkit for conducting `A/B testing`, testing statistical hypotheses, and performing in-depth data analysis using `Python`. The project demonstrates a fundamental understanding of mathematical statistics, as key statistical functions are implemented from scratch without using high-level statistical abstractions. Accurate calculation of parameters, `Z`-scores, and two-tailed `p-values` for comparing two samples. Development of scripts for simulating random events using the `random` module for the empirical validation of statistical hypotheses on large samples (for example, `1,000` coin-flip iterations). Construction of visual probability density plots for the standard normal distribution using the formula.
 
 ## 📊 Visualizations
 
