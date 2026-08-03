@@ -15,6 +15,8 @@
 
 This project is dedicated to developing a `classification model` for determining wine varieties based on their chemical characteristics. The work demonstrates the application of data preprocessing methods, statistical analysis, visualization, and the fundamentals of working with artificial neural networks. As part of this work, an analysis is conducted on the `wine_collection.csv` dataset, which contains the results of chemical analyses of various wine varieties. The project covers the full data processing cycle: from preprocessing (data cleaning and removal of uninformative features, such as `Color` and `No.`) to exploratory data analysis (`EDA`) using class distribution visualizations and correlation matrices. The main task is to prepare the data for training an artificial neural network that will predict the target variable `Desired` (wine class) based on its properties (`e.g.`, alcohol content and flavonoid content).
 
+⚙️ Project: [link](https://github.com/nazariikolesnikov/neural-networks-wine-collection)
+
 ## 🤖 Technologies
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
