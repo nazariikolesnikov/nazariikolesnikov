@@ -80,6 +80,12 @@ Cleaning the datasets, converting categorical text variables to numerical format
 
 # A/B Testing, Testing a Statistical Hypothesis (Practical Training)
 
+## 📝 Description
+
+This project is a custom toolkit for conducting `A/B testing`, testing statistical hypotheses, and performing in-depth data analysis using `Python`. The project demonstrates a fundamental understanding of mathematical statistics, as key statistical functions are implemented from scratch without using high-level statistical abstractions. Accurate calculation of parameters, `Z`-scores, and two-tailed `p-values` for comparing two samples. Development of scripts for simulating random events using the `random` module for the empirical validation of statistical hypotheses on large samples (for example, `1,000` coin-flip iterations). Construction of visual probability density plots for the standard normal distribution using the formula.
+
+⚙️ Project: [link](https://github.com/nazariikolesnikov/a-b-testing-practical-training)
+
 ## 🤖 Technologies
 
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
@@ -89,12 +95,6 @@ Cleaning the datasets, converting categorical text variables to numerical format
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
-
-⚙️ Project: [link](https://github.com/nazariikolesnikov/time-series-forcasting-arima-holt-winters-xgboost-random-forest)
-
-## 📝 Description
-
-This project is a custom toolkit for conducting `A/B testing`, testing statistical hypotheses, and performing in-depth data analysis using `Python`. The project demonstrates a fundamental understanding of mathematical statistics, as key statistical functions are implemented from scratch without using high-level statistical abstractions. Accurate calculation of parameters, `Z`-scores, and two-tailed `p-values` for comparing two samples. Development of scripts for simulating random events using the `random` module for the empirical validation of statistical hypotheses on large samples (for example, `1,000` coin-flip iterations). Construction of visual probability density plots for the standard normal distribution using the formula.
 
 ## 📊 Visualizations
 
