@@ -78,7 +78,7 @@ Cleaning the datasets, converting categorical text variables to numerical format
 
 <img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesist" src="https://github.com/nazariikolesnikov/decision-tree-algorithm-with-machine-learning/blob/main/ROC-curve.png" />
 
-# A/B Testing, Testing a Statistical Hypothesis (Practical Training)
+# A/B Testing and Testing a Statistical Hypothesis (Practical Training)
 
 ## 📝 Description
 
@@ -94,11 +94,12 @@ This project is a custom toolkit for conducting `A/B testing`, testing statistic
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ## 📊 Visualizations
 
-<img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesist" src="https://github.com/nazariikolesnikov/a-b-testing-practical-training/blob/main/AB%20Testing%20Results%20200%20sucesses%20versus%20180%20successes%20(N%20%3D%201000).png" />
+<img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesist" src="https://github.com/nazariikolesnikov/a-b-testing-practical-training/blob/main/AB%20Testing%20Results%20(Variant%20A%20(with%20200%20successes)%20vs%20Variant%20B%20(with%20150%20successes)).png" />
+
+<img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesis" src="https://github.com/nazariikolesnikov/a-b-testing-practical-training/blob/main/AB%20Testing%20Results%20(Variant%20A%20(with%20200%20successes)%20vs%20Variant%20B%20(with%20180%20successes)).png" />
 
 # Logistic and Linear Regression with TensorFlow (Practical Training)
 
