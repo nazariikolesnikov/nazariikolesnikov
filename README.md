@@ -1,5 +1,5 @@
 
-## 👋 Hi! I'm Nazarii Kolesnikov. I am a Data Scientist
+## 👋 Hi! I'm Nazarii Kolesnikov. I am a Junior Data Scientist
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazarii-kolesnikov-84ba89357/?skipRedirect=true)
 [![Viber](https://img.shields.io/badge/Viber-8B66A9?style=for-the-badge&logo=viber&logoColor=white)](tel:380678333023)
