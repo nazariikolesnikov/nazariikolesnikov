@@ -107,7 +107,7 @@ This project is a custom toolkit for conducting `A/B testing`, testing statistic
 
 Building a model to predict continuous values based on generated data with random noise. Parameter optimization (`weights` and `bias`) is performed using gradient descent, and model quality is evaluated using the root mean square (`RMS`) error and `Pearson’s coefficient of determination`. : Solving a binary classification problem for two generated data clusters. The project involves calculating the loss function (cross-entropy), finding the optimal decision boundary, and evaluating the model’s classification accuracy. Creating informative and visually appealing graphs to display data distribution, trend lines, and classification boundaries, which allows for a clear interpretation of the algorithms’ results.
 
-⚙️ Project: [link](https://github.com/nazariikolesnikov/time-series-forcasting-arima-holt-winters-xgboost-random-forest)
+⚙️ Project: [link](https://github.com/nazariikolesnikov/logistic-and-linear-regression-with-tensorflow)
 
 ## 🤖 Technologies
 
