@@ -11,6 +11,16 @@
 
 # 📄 Analytical Report: Distribution of Healthcare Facilities by 30-Day Readmission Rate
 
+## 🤖 Technologies
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 ## Executive Summary
 
 The purpose of this analysis is to examine and visualize statistical indicators of 30-day readmission rates (IPFQR Quality Measures) among healthcare facilities to assess the overall quality of care and identifypotential anomalies. Data from 1,216 healthcare facilities across the country were analyzed, and a dataset was prepared.The visualization tool is a combined graph that integratesa frequency distribution histogram (bar chart) and a frequency trend line.
