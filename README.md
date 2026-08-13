@@ -54,31 +54,44 @@ The tallest bar in the histogram and the peak of the trend line clearly demonstr
 
 <img width="5647" height="3707" alt="Actual VS Predicted 30-days Readmission Rates" src="https://github.com/nazariikolesnikov/complete-analysis-ipfqr-quality-measures-facility/blob/main/Actual%20VS%20Predicted%2030-days%20Readmission%20Rates.png" />
 
-# Neural Networks Training (Wine Collection)
+# Analytical Report: Predictive Classification of Wine Preferences Based on Chemical Properties
 
-## 📝 Description
+### Technologies 
 
-This project is dedicated to developing a `classification model` for determining wine varieties based on their chemical characteristics. The work demonstrates the application of data preprocessing methods, statistical analysis, visualization, and the fundamentals of working with artificial neural networks. As part of this work, an analysis is conducted on the `wine_collection.csv` dataset, which contains the results of chemical analyses of various wine varieties. The project covers the full data processing cycle: from preprocessing (data cleaning and removal of uninformative features, such as `Color` and `No.`) to exploratory data analysis (`EDA`) using class distribution visualizations and correlation matrices. The main task is to prepare the data for training an artificial neural network that will predict the target variable `Desired` (wine class) based on its properties (`e.g.`, alcohol content and flavonoid content).
-
-⚙️ Project: [link](https://github.com/nazariikolesnikov/neural-networks-wine-collection)
-
-## 🤖 Technologies
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## 📊 Visualizations
+The dataset (wine_collection.csv) contains 1,000 records. Each record describes the chemical profile of a wine based on 13 numerical characteristics: alcohol content, malic acid concentration, ash content, ash alkalinity, magnesium, concentration of total phenols, flavonoids, non-flavonoid phenols, proanthocyanidins, color, intensity, hue, OD280 and OD315 in diluted wines, proline, and wine category. 
 
-<img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesist" src="https://github.com/nazariikolesnikov/neural-networks-wine-collection/blob/main/Classification%20of%20Wines%20(Alcohol%20vs%20Flavanoids).png" />
+The target variable is “Desired,” which serves as a marker for the wine class and has three unique values (0, 1, and 2). The classes are distributed almost evenly (0 – 33.8%, 2 – 33.3%, 1 – 32.9%), which is an excellent indicator for building predictive analytics, since we do not need to apply additional sample balancing methods (such as SMOTE) and the model will not be biased toward the majority class.
 
-<img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesis" src="https://github.com/nazariikolesnikov/neural-networks-wine-collection/blob/main/Correlation%20Matrix%20of%20Wine%20Collection%20Characteristics.png" />
+## Data Preprocessing
+
+To prepare the data for training the neural network, several important steps for cleaning and transforming the data were performed:
+The columns “Color,” “Desires,” and “No.” were removed from the dataframe. Removing these columns is necessary to avoid data type errors, although they could be converted to numeric values in the future.
+
+The data was successfully split into a feature matrix (X) and a target variable vector (y). The split into training and test sets was performed in the classic 67/33 ratio with a fixed `random_state = 12345`, which ensures the reproducibility of the experiment.
+One-Hot Encoding (to_categorical) was used, which converted the one-dimensional array of the target variable into a three-column matrix to enable multi-class classification.
+
+## Neural Network Architecture
+
+A sequential feedforward neural network was constructed, consisting of the following layers:
+An input layer that accepts a vector of 13 features. Hidden layers, consisting of two dense layers with 9 and 10 neurons, respectively, using the ReLU activation function, which is well-suited for addressing the vanishing gradient problem.
+
+An output layer consisting of 3 neurons with a Softmax activation function, which converts the output signals into probabilities of belonging to each of the three wine classes. For training, we selected one of the most effective adaptive gradient descent algorithms—the Adam optimizer—and the categorical_crossentropy loss function.
+
+## Analysis of the Training Process and Growth Points
+
+Analyzing the training logs (up to epoch 110), a certain stagnation can be observed: accuracy fluctuates between 30% and 39%, and the loss function has plateaued at ~1.1–1.3. In fact, at this stage, the model is performing at the level of random guessing, where the probability of guessing correctly by chance for the three classes is 33.3%.
+
+## Main Cause and Recommendation
+
+There is a huge range of scales in the data; for example, the Proline metric reaches values over 1,400, while Nonflavanoid Phenols is around 0.3. It is extremely difficult for neural networks to optimize their weights when the input data varies by several orders of magnitude. As we usually do to improve model stability, before passing the X_train and X_test matrices to the model, it is worth adding a feature scaling step.
+
+<img width="5647" height="3107" alt="Time Series Forcasting (ARIMA)" src="https://github.com/nazariikolesnikov/k-nearest-neighbors-algorithm-practical-training/blob/main/Error%20rate%20for%20different%20values%20of%20K.png" />
 
 # Time Series Forecasting (Holt-Winters, ARIMA, XGBoost, Random Forest) (Practical Training)
 
