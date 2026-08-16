@@ -1,5 +1,17 @@
+ ## 👋 Hi! I'm Nazarii Kolesnikov. I am a Data Scientist & Analyst
 
-## 👋 Hi! I'm Nazarii Kolesnikov. I am a Junior Data Scientist
+My major, Economic Cybernetics, is the science of systems management. It has taught me how to translate complex economic and business processes into the language of algorithms, mathematical models, and code. Thanks to this education, I don’t just understand how data works: I know how to create technological solutions that make that data work toward a specific outcome.
+
+I’m a Junior Data Scientist with a passion for exploring data and finding meaning where others see only numbers.
+My goal is to help teams make informed decisions based on accurate analytics, time-series forecasts, and in-depth analysis of metrics. I have hands-on experience building regression models, analyzing medical and web data, and developing interactive visualizations.
+
+My strengths:
+
+• Analytical thinking: The ability to dive deep into a subject area and filter out noise from the data.
+• Flexible tech stack: Python (Pandas, Polars, TensorFlow), R, SQL, Power BI.
+• Product-oriented approach: Understanding the full data lifecycle: from collection and backend development to final reports.
+
+I’d be excited to join an ambitious team or get involved in an interesting project in the field of data analysis or ML.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazarii-kolesnikov-84ba89357/?skipRedirect=true)
 [![Viber](https://img.shields.io/badge/Viber-8B66A9?style=for-the-badge&logo=viber&logoColor=white)](tel:380678333023)
