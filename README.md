@@ -7,9 +7,9 @@ My goal is to help teams make informed decisions based on accurate analytics, ti
 
 My strengths:
 
-• Analytical thinking: The ability to dive deep into a subject area and filter out noise from the data.
-• Flexible tech stack: Python (Pandas, Polars, TensorFlow), R, SQL, Power BI.
-• Product-oriented approach: Understanding the full data lifecycle: from collection and backend development to final reports.
+• Analytical thinking: The ability to dive deep into a subject area and filter out noise from the data.<br/>
+• Flexible tech stack: Python (Pandas, Polars, TensorFlow), R, SQL, Power BI.<br/>
+• Product-oriented approach: Understanding the full data lifecycle: from collection and backend development to final reports.<br/>
 
 I’d be excited to join an ambitious team or get involved in an interesting project in the field of data analysis or ML.
 
