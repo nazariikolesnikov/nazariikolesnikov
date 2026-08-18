@@ -74,9 +74,16 @@ A significant number of facilities are categorized as “Number of Cases Too Sma
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o&nbsp;&nbsp;&nbsp;The highest peak for all five states falls within the 18 % – 19 % range, which is fully consistent with the overall distribution.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o&nbsp;&nbsp;&nbsp;The graph clearly shows that, despite differences in the total number of facilities, the distribution of these facilities by<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hospitalization rate is very similar across all states. This suggests that regional differences are likely not the dominant factor,<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and that the overall systemic quality is consistent across the country.<br/>
 
-<img width="5647" height="3707" alt="Distribution of Rehospitalization Rates (Top-12 States)" src="https://github.com/nazariikolesnikov/complete-analysis-ipfqr-quality-measures-facility/blob/main/Distribution%20of%20Rehospitalization%20Rates%20(Top-12%20States).png" />
+<img width="5647" height="3707" alt="Distribution of Healthcare Facilities by Rehospitalization Rate (Top-5 States)" src="https://github.com/nazariikolesnikov/complete-analysis-ipfqr-quality-measures-facility/blob/main/Distribution%20of%20Healthcare%20Facilities%20by%20Rehospitalization%20Rate%20(Top-5%20States).png" />
 
 ### Overall Quality of Establishments by Category (Pie Chart with Captions)
 
-•&nbsp;&nbsp;&nbsp;A pie chart allows you to assess the proportion of establishments that fall into different quality categories.
+•&nbsp;&nbsp;&nbsp;A pie chart allows you to assess the proportion of establishments that fall into different quality categories.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Results:<br/>
+
+<img width="5647" height="3707" alt="Quality of USA Hospitals and Rehospitalization Rates (Focus On Facilities In Need Of Improvement)" src="https://github.com/nazariikolesnikov/complete-analysis-ipfqr-quality-measures-facility/blob/main/Quality%20of%20USA%20Hospitals%20and%20Rehospitalization%20Rates%20(Focus%20On%20Facilities%20In%20Need%20Of%20Improvement).png" />
+
+<img width="5647" height="3707" alt="Multiple Regression Coefficients Impact On 30-Day Readmission Rate" src="https://github.com/nazariikolesnikov/complete-analysis-ipfqr-quality-measures-facility/blob/main/Multiple%20Regression%20Coefficients%20Impact%20On%2030-Day%20Readmission%20Rate.png" />
+
+<img width="5647" height="3707" alt="Actual VS Predicted 30-days Readmission Rates" src="https://github.com/nazariikolesnikov/complete-analysis-ipfqr-quality-measures-facility/blob/main/Actual%20VS%20Predicted%2030-days%20Readmission%20Rates.png" />
+
