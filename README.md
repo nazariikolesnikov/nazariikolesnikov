@@ -34,7 +34,7 @@ I’d be excited to join an ambitious team or get involved in an interesting pro
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-🖥️ Project Link: ![Project Link](https://github.com/nazariikolesnikov/complete-analysis-ipfqr-quality-measures-facility)
+🖥️ Project Link: [Project Link](https://github.com/nazariikolesnikov/complete-analysis-ipfqr-quality-measures-facility)
 
 This report summarizes the key findings from a visual analysis of data on 30-day readmissions to U.S. healthcare facilities.
 
