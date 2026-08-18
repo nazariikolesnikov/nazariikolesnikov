@@ -19,7 +19,7 @@ I’d be excited to join an ambitious team or get involved in an interesting pro
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nazarijkolesnikov053@gmail.com)
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.blogger.com/blog/posts/1472892418534435877?hl=uk&tab=jj)
 
-<img width="5647" height="3707" alt="Quality of USA Hospitals and Rehospitalization Rates (Focus On Facilities In Need Of Improvement)" src="https://github.com/nazariikolesnikov/complete-analysis-ipfqr-quality-measures-facility/blob/main/Quality%20of%20USA%20Hospitals%20and%20Rehospitalization%20Rates%20(Focus%20On%20Facilities%20In%20Need%20Of%20Improvement).png" />
+<!-- <img width="5647" height="3707" alt="Quality of USA Hospitals and Rehospitalization Rates (Focus On Facilities In Need Of Improvement)" src="https://github.com/nazariikolesnikov/complete-analysis-ipfqr-quality-measures-facility/blob/main/Quality%20of%20USA%20Hospitals%20and%20Rehospitalization%20Rates%20(Focus%20On%20Facilities%20In%20Need%20Of%20Improvement).png" /> -->
 
 ## 💻 Projects I'm currently working on
 
@@ -41,7 +41,7 @@ This report summarizes the key findings from a visual analysis of data on 30-day
 
 • The histogram (bars) and trend line (pink line) illustrate the distribution of healthcare facilities by the percentage of 30-day readmissions.<br/><br/> 
 &nbsp;&nbsp;&nbsp;• The key statistical measures for this distribution are:
-       o The average is 19.31 % and reflects the overall average rate of readmission in the sample;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o The average is 19.31 % and reflects the overall average rate of readmission in the sample;
        o The median is 19.10 %, and it is the middle value that divides all institutions into two equal parts. The closeness of the mean and the median            indicates a symmetrical and balanced distribution of the data;
        o The standard deviation is 2.51% and indicates that the values are moderately scattered around the mean, suggesting some variability 
          among institutions;
