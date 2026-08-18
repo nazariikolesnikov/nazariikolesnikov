@@ -51,14 +51,14 @@ median indicates a symmetrical and balanced distribution of the data;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o&nbsp;&nbsp;&nbsp;The distribution is distinctly unimodal with a clear central tendency;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o&nbsp;&nbsp;&nbsp;The largest group of institutions (nearly 200) is concentrated around 18 % - 19 %, which is the key “norm” or standard for<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;most institutions;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o&nbsp;&nbsp;&nbsp;The graph shows marked symmetry with a gradual decline toward the edges, resembling a normal distribution, which<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;indicates the stability of the system;<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o&nbsp;&nbsp;&nbsp;The minimum recorded level is 13.00%, and the “soft” left tail includes a small number of facilities with the best performance<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;indicators reflecting low hospitalization rates.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o&nbsp;&nbsp;&nbsp;The minimum recorded level is 13.00 %, and the “soft” left tail includes a small number of facilities with the best performance<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;indicators reflecting low hospitalization rates.<br/>
 
 <img width="5647" height="3107" alt="Distribution of Facilities by Rehospitalization Rate (with a trend line)" src="https://github.com/nazariikolesnikov/complete-analysis-ipfqr-quality-measures-facility/blob/main/Distribution%20of%20Facilities%20by%20Rehospitalization%20Rate%20(with%20a%20trend%20line).png" /><br/>
 
 ### Distribution of Rehospitalization Rates by State (Top 12) (Cumulative Bar Chart)
 
-•&nbsp;&nbsp;&nbsp;The bar chart (horizontal) shows the number of establishments in the 12 states with the highest presence, broken down by quality<br/>&nbsp;&nbsp;&nbsp;&nbsp;categories: better than average; worse than average; and so on.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Results:<br/>
+•&nbsp;&nbsp;&nbsp;The bar chart (horizontal) shows the number of establishments in the 12 states with the highest presence, broken down by quality<br/>&nbsp;&nbsp;&nbsp;&nbsp;categories: better than average; worse than average; and so on.<br/><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Results:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o&nbsp;&nbsp;&nbsp;
 The largest number of healthcare facilities providing data are located in the states of California (CA) and Florida (FL). This may indicate either<br/>&nbsp;&nbsp;&nbsp;&nbsp;a greater number of hospitals or more active participation in the reporting program.<br/>
 <img width="5647" height="3707" alt="Distribution of Rehospitalization Rates (Top-12 States)" src="https://github.com/nazariikolesnikov/complete-analysis-ipfqr-quality-measures-facility/blob/main/Distribution%20of%20Rehospitalization%20Rates%20(Top-12%20States).png" />
