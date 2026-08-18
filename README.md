@@ -75,3 +75,8 @@ A significant number of facilities are categorized as “Number of Cases Too Sma
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o&nbsp;&nbsp;&nbsp;The graph clearly shows that, despite differences in the total number of facilities, the distribution of these facilities by<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hospitalization rate is very similar across all states. This suggests that regional differences are likely not the dominant factor,<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and that the overall systemic quality is consistent across the country.<br/>
 
 <img width="5647" height="3707" alt="Distribution of Rehospitalization Rates (Top-12 States)" src="https://github.com/nazariikolesnikov/complete-analysis-ipfqr-quality-measures-facility/blob/main/Distribution%20of%20Rehospitalization%20Rates%20(Top-12%20States).png" />
+
+### Overall Quality of Establishments by Category (Pie Chart with Captions)
+
+•&nbsp;&nbsp;&nbsp;A pie chart allows you to assess the proportion of establishments that fall into different quality categories.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Results:<br/>
