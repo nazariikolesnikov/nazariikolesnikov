@@ -55,5 +55,10 @@ median indicates a symmetrical and balanced distribution of the data;<br/>
 
 <img width="5647" height="3107" alt="Distribution of Facilities by Rehospitalization Rate (with a trend line)" src="https://github.com/nazariikolesnikov/complete-analysis-ipfqr-quality-measures-facility/blob/main/Distribution%20of%20Facilities%20by%20Rehospitalization%20Rate%20(with%20a%20trend%20line).png" /><br/>
 
+### Distribution of Rehospitalization Rates by State (Top 12) (Cumulative Bar Chart)
+
+•&nbsp;&nbsp;&nbsp;The bar chart (horizontal) shows the number of establishments in the 12 states with the highest presence, broken down by quality categories: better than average; worse than average; and so on.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Results:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o&nbsp;&nbsp;&nbsp;
 <img width="5647" height="3707" alt="Distribution of Rehospitalization Rates (Top-12 States)" src="https://github.com/nazariikolesnikov/complete-analysis-ipfqr-quality-measures-facility/blob/main/Distribution%20of%20Rehospitalization%20Rates%20(Top-12%20States).png" />
 
