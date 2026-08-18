@@ -52,4 +52,8 @@ median indicates a symmetrical and balanced distribution of the data;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o&nbsp;&nbsp;&nbsp;The largest group of institutions (nearly 200) is concentrated around 18 % - 19 %, which is the key “norm” or standard for<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;most institutions;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o&nbsp;&nbsp;&nbsp;The graph shows marked symmetry with a gradual decline toward the edges, resembling a normal distribution, which<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;indicates the stability of the system;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o&nbsp;&nbsp;&nbsp;The minimum recorded level is 13.00%, and the “soft” left tail includes a small number of facilities with the best performance<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;indicators reflecting low hospitalization rates.<br/>
- 
+
+<img width="5647" height="3107" alt="Distribution of Facilities by Rehospitalization Rate (with a trend line)" src="https://github.com/nazariikolesnikov/complete-analysis-ipfqr-quality-measures-facility/blob/main/Distribution%20of%20Facilities%20by%20Rehospitalization%20Rate%20(with%20a%20trend%20line).png" /><br/>
+
+<img width="5647" height="3707" alt="Distribution of Rehospitalization Rates (Top-12 States)" src="https://github.com/nazariikolesnikov/complete-analysis-ipfqr-quality-measures-facility/blob/main/Distribution%20of%20Rehospitalization%20Rates%20(Top-12%20States).png" />
+
