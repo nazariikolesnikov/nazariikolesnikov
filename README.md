@@ -88,6 +88,13 @@ A significant number of facilities are categorized as “Number of Cases Too Sma
 
 <img width="5647" height="3707" alt="Quality of USA Hospitals and Rehospitalization Rates (Focus On Facilities In Need Of Improvement)" src="https://github.com/nazariikolesnikov/complete-analysis-ipfqr-quality-measures-facility/blob/main/Quality%20of%20USA%20Hospitals%20and%20Rehospitalization%20Rates%20(Focus%20On%20Facilities%20In%20Need%20Of%20Improvement).png" />
 
+### The Effect of Clinical Indicators on Hospitalization Rates (Multiple Regression Coefficients)
+
+•&nbsp;&nbsp;&nbsp;A horizontal bar chart shows how changes in various clinical indicators (for example, the percentage of patients who continued taking their medication) affect the rate of readmission.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Results:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Statistically significant factors (p-value < 0.05):<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o&nbsp;&nbsp;&nbsp;The “MedCont %” (“Continuation of Medication”) metric has the strongest negative impact on the hospitalization rate. A 1% increase in this indicator reduces the risk of rehospitalization by 0.084%. This is the most important clinical driver in the model, underscoring the critical importance of patient adherence to treatment regimens.<br/>
+
 <img width="5647" height="3707" alt="Multiple Regression Coefficients Impact On 30-Day Readmission Rate" src="https://github.com/nazariikolesnikov/complete-analysis-ipfqr-quality-measures-facility/blob/main/Multiple%20Regression%20Coefficients%20Impact%20On%2030-Day%20Readmission%20Rate.png" />
 
 <img width="5647" height="3707" alt="Actual VS Predicted 30-days Readmission Rates" src="https://github.com/nazariikolesnikov/complete-analysis-ipfqr-quality-measures-facility/blob/main/Actual%20VS%20Predicted%2030-days%20Readmission%20Rates.png" />
