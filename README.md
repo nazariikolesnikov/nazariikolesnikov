@@ -99,5 +99,10 @@ A significant number of facilities are categorized as “Number of Cases Too Sma
 
 <img width="5647" height="3707" alt="Multiple Regression Coefficients Impact On 30-Day Readmission Rate" src="https://github.com/nazariikolesnikov/complete-analysis-ipfqr-quality-measures-facility/blob/main/Multiple%20Regression%20Coefficients%20Impact%20On%2030-Day%20Readmission%20Rate.png" />
 
+### Accuracy of the Regression Model (Actual and Predicted Values)
+•&nbsp;&nbsp;&nbsp;A scatter plot comparing the actual rate of rehospitalization with the rate predicted by the multiple regression model.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Results:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;The points on the graph indicate that the model has some predictive power, as they are clustered along the red dotted line (perfect prediction), suggesting that the selected factors explain part of the variation in hospitalization rates.<br/>
+
 <img width="5647" height="3707" alt="Actual VS Predicted 30-days Readmission Rates" src="https://github.com/nazariikolesnikov/complete-analysis-ipfqr-quality-measures-facility/blob/main/Actual%20VS%20Predicted%2030-days%20Readmission%20Rates.png" />
 
