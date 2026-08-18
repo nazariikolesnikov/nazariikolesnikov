@@ -42,9 +42,8 @@ This report summarizes the key findings from a visual analysis of data on 30-day
 •&nbsp;&nbsp;&nbsp;The histogram (bars) and trend line illustrate the distribution of healthcare facilities by the percentage of 30-day readmissions.<br/><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;The key statistical measures for this distribution are:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o&nbsp;&nbsp;&nbsp;The average is 19.31 % and reflects the overall average rate of readmission in the sample;<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o The median is 19.10 %, and it is the middle value that divides all institutions into two equal parts. The closeness of the mean and the median indicates a symmetrical and balanced distribution of the data;
-       o The standard deviation is 2.51% and indicates that the values are moderately scattered around the mean, suggesting some variability 
-         among institutions;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o&nbsp;&nbsp;&nbsp;The median is 19.10 %, and it is the middle value that divides all institutions into two equal parts. The closeness of the mean and the median indicates a symmetrical and balanced distribution of the data;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o&nbsp;&nbsp;&nbsp;The standard deviation is 2.51% and indicates that the values are moderately scattered around the mean, suggesting some variability among institutions;
        o The interquartile range shows that 50% of all facilities have hospitalization rates within a narrow and stable range from 17.60 % (Q1) to 20.80           % (Q3).  
   •  Results:
        o The distribution is distinctly unimodal with a clear central tendency;
