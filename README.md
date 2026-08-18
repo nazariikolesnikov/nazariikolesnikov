@@ -5,10 +5,10 @@ My major, Economic Cybernetics, is the science of systems management. It has tau
 I’m a Junior Data Scientist with a passion for exploring data and finding meaning where others see only numbers.
 My goal is to help teams make informed decisions based on accurate analytics, time-series forecasts, and in-depth analysis of metrics. I have hands-on experience building regression models, analyzing medical and web data, and developing interactive visualizations.
 
-My strengths:
-&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;Analytical thinking: The ability to dive deep into a subject area and filter out noise from the data.<br/>
-&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;Flexible tech stack: Python (Pandas, Polars, TensorFlow), R, SQL, Power BI.<br/>
-&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;Product-oriented approach: Understanding the full data lifecycle: from collection and backend development to final reports.<br/>
+My strengths:<br/>
+&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;Analytical thinking: The ability to dive deep into a subject area and filter out noise from the data.<br/>
+&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;Flexible tech stack: Python (Pandas, Polars, TensorFlow), R, SQL, Power BI.<br/>
+&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;Product-oriented approach: Understanding the full data lifecycle: from collection and backend development to final reports.<br/>
 
 I’d be excited to join an ambitious team or get involved in an interesting project in the field of data analysis or ML.
 
@@ -50,6 +50,6 @@ median indicates a symmetrical and balanced distribution of the data;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Results:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o&nbsp;&nbsp;&nbsp;The distribution is distinctly unimodal with a clear central tendency;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o&nbsp;&nbsp;&nbsp;The largest group of institutions (nearly 200) is concentrated around 18 % - 19 %, which is the key “norm” or standard for<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;most institutions;<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o&nbsp;&nbsp;&nbsp;The graph shows marked symmetry with a gradual decline toward the edges, resembling a normal distribution, which<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;indicates the stability of the system;<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o&nbsp;&nbsp;&nbsp;The minimum recorded level is 13.00%, and the “soft” left tail includes a small number of facilities with the best performance<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;indicators reflecting low hospitalization rates.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o&nbsp;&nbsp;&nbsp;The graph shows marked symmetry with a gradual decline toward the edges, resembling a normal distribution, which<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;indicates the stability of the system;<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o&nbsp;&nbsp;&nbsp;The minimum recorded level is 13.00%, and the “soft” left tail includes a small number of facilities with the best performance<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;indicators reflecting low hospitalization rates.<br/>
  
