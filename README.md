@@ -18,8 +18,6 @@ I’d be excited to join an ambitious team or get involved in an interesting pro
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nazarijkolesnikov053@gmail.com)
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.blogger.com/blog/posts/1472892418534435877?hl=uk&tab=jj)
 
-<!-- <img width="5647" height="3707" alt="Quality of USA Hospitals and Rehospitalization Rates (Focus On Facilities In Need Of Improvement)" src="https://github.com/nazariikolesnikov/complete-analysis-ipfqr-quality-measures-facility/blob/main/Quality%20of%20USA%20Hospitals%20and%20Rehospitalization%20Rates%20(Focus%20On%20Facilities%20In%20Need%20Of%20Improvement).png" /> -->
-
 ## 💻 Projects I'm currently working on
 
 ## 📄 Analytical Report on the Results of the Study of Rehospitalization Rates (IPFQR Quality Measures)
@@ -94,7 +92,7 @@ A significant number of facilities are categorized as “Number of Cases Too Sma
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Results:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Statistically significant factors (p-value < 0.05):<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o&nbsp;&nbsp;&nbsp;The “MedCont %” (“Continuation of Medication”) metric has the strongest negative impact on the hospitalization rate.<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A 1 % increase in this indicator reduces the risk of rehospitalization by 0.084 %. This is the most important clinical driver in<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the model, underscoring the critical importance of patient adherence to treatment regimens.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The “FAPH-30%” indicator (“Percentage of patients who received care within 30 days”) also has a negative effect (p-value < 0.05).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o&nbsp;&nbsp;&nbsp;The “FAPH-30%” indicator (“Percentage of patients who received care within 30 days”) also has a negative effect (p-value < 0.05).<br/>
 
 <img width="5647" height="3707" alt="Multiple Regression Coefficients Impact On 30-Day Readmission Rate" src="https://github.com/nazariikolesnikov/complete-analysis-ipfqr-quality-measures-facility/blob/main/Multiple%20Regression%20Coefficients%20Impact%20On%2030-Day%20Readmission%20Rate.png" />
 
