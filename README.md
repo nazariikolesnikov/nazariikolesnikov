@@ -1,4 +1,4 @@
- ## 👋 Hi! I'm Nazarii Kolesnikov. I am a Data Scientist & Analyst
+ ## 👋 Hi! I'm Nazarii Kolesnikov. I am a Junior Data Scientist & Analyst
 
 My major, Economic Cybernetics, is the science of systems management. It has taught me how to translate complex economic and business processes into the language of algorithms, mathematical models, and code. Thanks to this education, I don’t just understand how data works: I know how to create technological solutions that make that data work toward a specific outcome.
 
