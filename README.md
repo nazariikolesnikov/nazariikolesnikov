@@ -69,8 +69,9 @@ A significant number of facilities are categorized as “Number of Cases Too Sma
 
 ### Distribution of Facilities by Hospitalization Rate (Top 5 States) (Cumulative Regional Chart)
 
-•&nbsp;&nbsp;&nbsp;This graph shows how the number of facilities in the five largest states varies depending on the readmission rate (on a scale from 16% to 23%).<br/>
+•&nbsp;&nbsp;&nbsp;This graph shows how the number of facilities in the five largest states varies depending on the readmission rate (on a scale from 16 %<br/>&nbsp;&nbsp;&nbsp;&nbsp;o&nbsp;&nbsp;&nbsp;to 23 %).<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Results:<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o&nbsp;&nbsp;&nbsp;The highest peak for all five states falls within the 18%–19% range, which is fully consistent with the overall distribution.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o&nbsp;&nbsp;&nbsp;The highest peak for all five states falls within the 18 % – 19 % range, which is fully consistent with the overall distribution.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o&nbsp;&nbsp;&nbsp;The graph clearly shows that, despite differences in the total number of facilities, the distribution of these facilities by hospitalization rate is very similar across all states. This suggests that regional differences are likely not the dominant factor, and that the overall systemic quality is consistent across the country.<br/>
 
 <img width="5647" height="3707" alt="Distribution of Rehospitalization Rates (Top-12 States)" src="https://github.com/nazariikolesnikov/complete-analysis-ipfqr-quality-measures-facility/blob/main/Distribution%20of%20Rehospitalization%20Rates%20(Top-12%20States).png" />
