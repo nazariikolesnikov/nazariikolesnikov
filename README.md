@@ -107,3 +107,7 @@ A significant number of facilities are categorized as “Number of Cases Too Sma
 
 <img width="5647" height="3707" alt="Actual VS Predicted 30-days Readmission Rates" src="https://github.com/nazariikolesnikov/complete-analysis-ipfqr-quality-measures-facility/blob/main/Actual%20VS%20Predicted%2030-days%20Readmission%20Rates.png" />
 
+### General Conclusions and Recommendations
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.) The vast majority of healthcare facilities show a stable, “average” rate of readmission, which indicates the overall stability of the system; however, it is not ideal and requires further study.<br/>
+
