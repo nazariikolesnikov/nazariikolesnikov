@@ -20,7 +20,7 @@ I’d be excited to join an ambitious team or get involved in an interesting pro
 
 ## 💻 Projects I'm currently working on
 
-## 📄 Analytical Report on the Results of the Study of Rehospitalization Rates (IPFQR Quality Measures)
+## 📄 Analytical Report of the Distribution of Healthcare Facilities by 30-Day Readmission Rate (IPFQR Quality Measures)
 
 ### 🤖 Technologies
 
