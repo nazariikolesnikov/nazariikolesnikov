@@ -25,6 +25,20 @@ I’d be excited to join an ambitious team or get involved in an interesting pro
 ### 🤖 Technologies
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+🖥️ Project Link: [Link](https://github.com/nazariikolesnikov/complete-analysis-ipfqr-quality-measures-facility)
+
+<img width="5647" height="3107" alt="Finding The Minimum Value Using The Gradient Descent Method" src="https://github.com/nazariikolesnikov/finding-the-minimum-value-using-the-gradient-descent-method/blob/main/Finding%20The%20Minimum%20Value%20Using%20The%20Gradient%20Descent%20Method.png" /><br/>
+
+## 📄 Analytical Report of the Distribution of Healthcare Facilities by 30-Day Readmission Rate (IPFQR Quality Measures)
+
+### 🤖 Technologies
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
