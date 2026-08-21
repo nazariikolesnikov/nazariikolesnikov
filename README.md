@@ -32,7 +32,7 @@ I’d be excited to join an ambitious team or get involved in an interesting pro
 
 🖥️ Project Link: [Link](https://github.com/nazariikolesnikov/complete-analysis-ipfqr-quality-measures-facility)
 
-<img width="2047" height="1507" alt="Finding The Minimum Value Using The Gradient Descent Method" src="https://github.com/nazariikolesnikov/finding-the-minimum-value-using-the-gradient-descent-method/blob/main/Finding%20The%20Minimum%20Value%20Using%20The%20Gradient%20Descent%20Method.png" /><br/>
+<img width="2047" height="907" alt="Finding The Minimum Value Using The Gradient Descent Method" src="https://github.com/nazariikolesnikov/finding-the-minimum-value-using-the-gradient-descent-method/blob/main/Finding%20The%20Minimum%20Value%20Using%20The%20Gradient%20Descent%20Method.png" /><br/>
 
 ## 📄 Analytical Report of the Distribution of Healthcare Facilities by 30-Day Readmission Rate (IPFQR Quality Measures)
 
