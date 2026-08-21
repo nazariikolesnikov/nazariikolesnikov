@@ -48,7 +48,7 @@ The method used in this project involves efficiently finding the minimum value o
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-🖥️ Project Link: [Link](https://github.com/nazariikolesnikov/complete-analysis-ipfqr-quality-measures-facility)
+🖥️ Project Link: [Link](https://github.com/nazariikolesnikov/finding-the-minimum-value-using-the-gradient-descent-method/tree/main)
 
 This report summarizes the key findings from a visual analysis of data on 30-day readmissions to U.S. healthcare facilities.
 
