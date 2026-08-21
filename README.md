@@ -22,6 +22,8 @@ I’d be excited to join an ambitious team or get involved in an interesting pro
 
 ## 📄 Finding The Minimum Value Using The Gradient Descent Method
 
+The method used in this project involves efficiently finding the minimum value of a function using the gradient descent method and visualizing it in a three-dimensional (3D) plane for clarity and further analysis. The gradient function implements the mathematical formulas we derived for partial derivatives. For each pair (x, y), it returns a gradient vector. The starting point is the point start_point = np.array([-1.5, 1.5]). We chose it in the second quadrant, where the xy product is negative, which makes sin(xy) negative, and thus leads us to a local minimum. The choice of starting point is extremely important for nonlinear functions. The learning step (learning_rate) determines how big a step down we take each iteration. If it is too big, we can skip the minimum, but if it is too small, then the descent will be too slow. A value of 0.05 was chosen for the training step, which works well for the local scale. A 3D surface was constructed on a grid from -3 to 3 and the path of our algorithm was superimposed on it. The black dashed line with the 'v' marker triangles shows how the algorithm "descends". The red square shows the start, and the green one shows the minimum found. The viewing angle has also been adjusted to make it easier to see the descent.
+
 ### 🤖 Technologies
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
