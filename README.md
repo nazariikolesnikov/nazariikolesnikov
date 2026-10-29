@@ -48,6 +48,16 @@ I’d be excited to join an ambitious team or get involved in an interesting pro
 
 ## 💻 Projects I'm currently working on
 
+## 📄 Finding The Minimum Value Using The Gradient Descent Method
+
+The method used in this project involves efficiently finding the minimum value of a function using the gradient descent method and visualizing it in a three-dimensional (3D) plane for clarity and further analysis. The gradient function implements the mathematical formulas we derived for partial derivatives. For each pair (x, y), it returns a gradient vector. The starting point is the point start_point = np.array([-1.5, 1.5]). We chose it in the second quadrant, where the xy product is negative, which makes sin(xy) negative, and thus leads us to a local minimum. The choice of starting point is extremely important for nonlinear functions. The learning step (learning_rate) determines how big a step down we take each iteration. If it is too big, we can skip the minimum, but if it is too small, then the descent will be too slow. A value of 0.05 was chosen for the training step, which works well for the local scale. A 3D surface was constructed on a grid from -3 to 3 and the path of our algorithm was superimposed on it. The black dashed line with the 'v' marker triangles shows how the algorithm "descends". The red square shows the start, and the green one shows the minimum found. The viewing angle has also been adjusted to make it easier to see the descent.
+
+🖥️ Project Link: [Link](https://github.com/nazariikolesnikov/complete-analysis-ipfqr-quality-measures-facility)
+
+<img width="2047" height="907" alt="Finding The Minimum Value Using The Gradient Descent Method" src="https://github.com/nazariikolesnikov/finding-the-minimum-value-using-the-gradient-descent-method/blob/main/Finding%20The%20Minimum%20Value%20Using%20The%20Gradient%20Descent%20Method___.png" /><br/>
+<img width="2047" height="907" alt="Finding The Minimum Value Using The Gradient Descent Method" src="https://github.com/nazariikolesnikov/finding-the-minimum-value-using-the-gradient-descent-method/blob/main/Calculation%20of%20the%20gradient%20descent%20method%20for%20our%20functions.png" /><br/>
+<img width="2047" height="907" alt="Finding The Minimum Value Using The Gradient Descent Method" src="https://github.com/nazariikolesnikov/finding-the-minimum-value-using-the-gradient-descent-method/blob/main/Calculation%20of%20the%20gradient%20descent%20method%20for%20our%20functions2.png" /><br/>
+
 ## 📄 Analytical Report of the Distribution of Healthcare Facilities by 30-Day Readmission Rate (IPFQR Quality Measures)
 
 ### 🤖 Technologies
@@ -126,16 +136,6 @@ A significant number of facilities are categorized as “Number of Cases Too Sma
 <img width="5647" height="3707" alt="Multiple Regression Coefficients Impact On 30-Day Readmission Rate" src="https://github.com/nazariikolesnikov/complete-analysis-ipfqr-quality-measures-facility/blob/main/Multiple%20Regression%20Coefficients%20Impact%20On%2030-Day%20Readmission%20Rate.png" />
 
 🖥️ Project Link: 
-
-## 📄 Finding The Minimum Value Using The Gradient Descent Method
-
-The method used in this project involves efficiently finding the minimum value of a function using the gradient descent method and visualizing it in a three-dimensional (3D) plane for clarity and further analysis. The gradient function implements the mathematical formulas we derived for partial derivatives. For each pair (x, y), it returns a gradient vector. The starting point is the point start_point = np.array([-1.5, 1.5]). We chose it in the second quadrant, where the xy product is negative, which makes sin(xy) negative, and thus leads us to a local minimum. The choice of starting point is extremely important for nonlinear functions. The learning step (learning_rate) determines how big a step down we take each iteration. If it is too big, we can skip the minimum, but if it is too small, then the descent will be too slow. A value of 0.05 was chosen for the training step, which works well for the local scale. A 3D surface was constructed on a grid from -3 to 3 and the path of our algorithm was superimposed on it. The black dashed line with the 'v' marker triangles shows how the algorithm "descends". The red square shows the start, and the green one shows the minimum found. The viewing angle has also been adjusted to make it easier to see the descent.
-
-🖥️ Project Link: [Link](https://github.com/nazariikolesnikov/complete-analysis-ipfqr-quality-measures-facility)
-
-<img width="2047" height="907" alt="Finding The Minimum Value Using The Gradient Descent Method" src="https://github.com/nazariikolesnikov/finding-the-minimum-value-using-the-gradient-descent-method/blob/main/Finding%20The%20Minimum%20Value%20Using%20The%20Gradient%20Descent%20Method___.png" /><br/>
-<img width="2047" height="907" alt="Finding The Minimum Value Using The Gradient Descent Method" src="https://github.com/nazariikolesnikov/finding-the-minimum-value-using-the-gradient-descent-method/blob/main/Calculation%20of%20the%20gradient%20descent%20method%20for%20our%20functions.png" /><br/>
-<img width="2047" height="907" alt="Finding The Minimum Value Using The Gradient Descent Method" src="https://github.com/nazariikolesnikov/finding-the-minimum-value-using-the-gradient-descent-method/blob/main/Calculation%20of%20the%20gradient%20descent%20method%20for%20our%20functions2.png" /><br/>
 
 ## 📄 Forecast of Returns on Government Domestic Bonds (primary market issuance of Government Domestic Bonds, from which funds are raised for the budget) (2027 - 2028 years) 
 
