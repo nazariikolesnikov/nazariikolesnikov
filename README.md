@@ -56,7 +56,9 @@ This project is a fully functional, production-ready web application that predic
 #### 🚀 Live Demo:  [Link](https://medical-insurance-estimator-project.onrender.com)
 
 ### Key Features:
-Real-time Predictions: Get instant insurance cost estimates based on Age, BMI, Smoking status, and Region.
+
+### Real-time Predictions: 
+Get instant insurance cost estimates based on Age, BMI, Smoking status, and Region.
 Machine Learning Backend: Powered by a trained Random Forest model (achieving an impressive ~85% R² score) that captures complex, non-linear relationships in the data.
 
 ### Interactive Data Visualization: 
