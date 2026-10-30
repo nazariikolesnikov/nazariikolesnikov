@@ -48,6 +48,31 @@ I’d be excited to join an ambitious team or get involved in an interesting pro
 
 ## 💻 Projects I'm currently working on
 
+## 🏥 Medical Insurance Cost Estimator | End-to-End Machine Learning Web App
+
+### Description:
+This project is a fully functional, production-ready web application that predicts medical insurance charges based on patient demographics and lifestyle factors. Moving beyond a traditional Jupyter Notebook, this project demonstrates the complete Machine Learning lifecycle: from data analysis and model training to web development and cloud deployment.
+
+### 🚀 Live Demo: (https://medical-insurance-estimator-project.onrender.com)
+
+### Key Features:
+Real-time Predictions: Get instant insurance cost estimates based on Age, BMI, Smoking status, and Region.
+Machine Learning Backend: Powered by a trained Random Forest model (achieving an impressive ~85% R² score) that captures complex, non-linear relationships in the data.
+
+### Interactive Data Visualization: 
+A dynamic bar chart (Chart.js) compares the user's predicted cost against average smokers and non-smokers, providing immediate context.
+
+### Modern UI/UX: A clean, responsive interface built with Bootstrap, ensuring a seamless experience across all devices.
+
+### Robust Deployment: Hosted on Render with Gunicorn and WhiteNoise for efficient static file serving.
+
+### 🛠️ Tech Stack:
+
+* Backend: Python, Django
+* Machine Learning: Scikit-learn, Pandas, NumPy, Joblib
+* Frontend: HTML5, CSS3, Bootstrap 5, Chart.js
+* Deployment: Render, Gunicorn, WhiteNoise
+
 ## 📄 Finding The Minimum Value Using The Gradient Descent Method
 
 The method used in this project involves efficiently finding the minimum value of a function using the gradient descent method and visualizing it in a three-dimensional (3D) plane for clarity and further analysis. The gradient function implements the mathematical formulas we derived for partial derivatives. For each pair (x, y), it returns a gradient vector. The starting point is the point start_point = np.array([-1.5, 1.5]). We chose it in the second quadrant, where the xy product is negative, which makes sin(xy) negative, and thus leads us to a local minimum. The choice of starting point is extremely important for nonlinear functions. The learning step (learning_rate) determines how big a step down we take each iteration. If it is too big, we can skip the minimum, but if it is too small, then the descent will be too slow. A value of 0.05 was chosen for the training step, which works well for the local scale. A 3D surface was constructed on a grid from -3 to 3 and the path of our algorithm was superimposed on it. The black dashed line with the 'v' marker triangles shows how the algorithm "descends". The red square shows the start, and the green one shows the minimum found. The viewing angle has also been adjusted to make it easier to see the descent.
