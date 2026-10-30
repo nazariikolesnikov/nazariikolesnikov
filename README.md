@@ -1,6 +1,6 @@
-## 👋 Hi! I'm Nazarii Kolesnikov. I am a Trainee Intern Data Scientist & Analyst
+## 👋 Hi! I'm Nazarii Kolesnikov. I am a Trainee/Intern Data Scientist & Analyst
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://nazarii-kolesnikov-portfolio-website.onrender.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://medical-insurance-estimator-project.onrender.com)
 
 I’m a Trainee Intern Data Scientist with a passion for exploring data and finding meaning where others see only numbers.
 My goal is to help teams make informed decisions based on accurate analytics, time-series forecasts, and in-depth analysis of metrics. I have hands-on experience building regression models, analyzing medical and web data, and developing interactive visualizations.
