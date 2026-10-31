@@ -55,6 +55,8 @@ This project is a fully functional, production-ready web application that predic
 
 #### 🚀 Live Demo:  [Link](https://medical-insurance-estimator-project.onrender.com)
 
+<img width="2047" height="907" alt="Medical Insurance Cost Estimator Chart Image" src="https://github.com/nazariikolesnikov/medical-insurance-cost-estimator-project/blob/main/medical-insurance-cost-estimator-chart-image.png" /><br/>
+
 ### Real-time Predictions: 
 Get instant insurance cost estimates based on Age, BMI, Smoking status, and Region.
 Machine Learning Backend: Powered by a trained Random Forest model (achieving an impressive ~85% R² score) that captures complex, non-linear relationships in the data.
